@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 26 17:09:52 CST 2022","Wed Jan 26 17:09:52 CST 2022","198","testcases","test_caoliao_http_get_interface","TestHttpInterface","","","test_caoliao_get_demo[测试草料二维码get接口2]",""
+"passed","Wed Jan 26 17:09:52 CST 2022","Wed Jan 26 17:09:52 CST 2022","238","testcases","test_caoliao_http_post_interface","TestHttpInterface","","","test_caoliao_post_demo[测试草料二维码post接口1]",""
+"passed","Wed Jan 26 17:09:52 CST 2022","Wed Jan 26 17:09:52 CST 2022","205","testcases","test_caoliao_http_get_interface","TestHttpInterface","","","test_caoliao_get_demo[测试草料二维码get接口1]",""
+"passed","Wed Jan 26 17:09:52 CST 2022","Wed Jan 26 17:09:53 CST 2022","219","testcases","test_caoliao_http_post_interface","TestHttpInterface","","","test_caoliao_post_demo[测试草料二维码post接口2]",""

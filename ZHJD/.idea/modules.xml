@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Pandora/.idea/Pandora.iml" filepath="$PROJECT_DIR$/../Pandora/.idea/Pandora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ZHJD.iml" filepath="$PROJECT_DIR$/.idea/ZHJD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nlu_regression_tool/.idea/nlu_regression_tool.iml" filepath="$PROJECT_DIR$/../nlu_regression_tool/.idea/nlu_regression_tool.iml" />
+    </modules>
+  </component>
+</project>

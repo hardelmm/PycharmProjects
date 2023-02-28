@@ -1,0 +1,27 @@
+{
+  "dataItem": [
+    {
+      "id": "testget-1",
+      "name": "草料二维码get接口1",
+      "headers":{
+        "Accept-Encoding":"gzip, deflate, br"
+      },
+      "url":"/qrcode/getDefaultComponentMsg",
+      "method":"get",
+      "expectdata": {
+        "code": "1"
+      }
+    },
+
+    {
+      "id": "testget-2",
+      "name": "草料二维码get接口2",
+      "headers":{},
+      "url":"/qrcode/getDefaultComponentMsg",
+      "method":"get",
+      "expectdata": {
+        "code": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1342 @@
+Nov 06 10:41:19.531	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 10:42:57.296	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 10:49:32.312	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 10:51:29.640	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 10:51:46.703	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 10:52:01.015	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 10:55:57.484	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 10:57:10.015	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 10:57:18.156	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 10:57:27.968	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 11:00:06.859	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 11:00:14.031	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 11:00:23.937	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 11:06:06.156	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 11:06:14.296	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 11:06:23.234	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 11:07:41.078	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 11:07:49.234	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 11:07:58.031	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 06 11:19:11.890	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:19:11.093	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:19:12.031	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:19:12.234	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:19:13.109	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:19:13.312	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:19:14.218	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:19:14.421	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:19:15.328	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:19:15.531	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:19:16.125	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:19:16.343	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:19:17.906	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:19:17.109	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:22:57.781	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:22:58.984	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:22:59.859	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:22:59.062	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:23:00.937	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:23:00.156	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:23:01.046	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:23:01.250	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:23:02.218	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:23:02.437	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:23:03.015	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:23:03.218	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:23:03.796	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:23:04.000	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:26:01.390	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:26:01.593	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:26:02.531	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:26:02.734	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:26:03.578	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:26:03.781	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:26:04.687	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:26:05.890	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:26:06.875	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:26:06.078	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:26:06.718	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:26:07.921	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:26:07.468	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:26:07.671	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 06 11:27:43.203	ERRO - JHTTP	connect error	fd = 964	this = 6215888	errno = 0
+Nov 06 11:27:43.203	ERRO - JHTTP	connect error	fd = 1008	this = 8298880	errno = 0
+Nov 06 11:27:43.218	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:27:43.421	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:27:44.296	ERRO - JHTTP	connect error	fd = 1008	this = 6215888	errno = 0
+Nov 06 11:27:44.296	ERRO - JHTTP	connect error	fd = 1008	this = 8286224	errno = 0
+Nov 06 11:27:44.312	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:27:44.515	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:27:45.296	ERRO - JHTTP	connect error	fd = 1008	this = 6215888	errno = 0
+Nov 06 11:27:45.312	ERRO - JHTTP	connect error	fd = 1008	this = 8287312	errno = 0
+Nov 06 11:27:45.312	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:27:45.515	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:27:46.375	ERRO - JHTTP	connect error	fd = 1044	this = 6215888	errno = 0
+Nov 06 11:27:46.375	ERRO - JHTTP	connect error	fd = 1044	this = 8275936	errno = 0
+Nov 06 11:27:46.390	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:27:46.593	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:27:47.609	ERRO - JHTTP	connect error	fd = 1048	this = 6215888	errno = 0
+Nov 06 11:27:47.609	ERRO - JHTTP	connect error	fd = 1048	this = 8280384	errno = 0
+Nov 06 11:27:47.625	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:27:48.828	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:27:48.359	ERRO - JHTTP	connect error	fd = 1036	this = 6215888	errno = 0
+Nov 06 11:27:48.359	ERRO - JHTTP	connect error	fd = 1036	this = 8281824	errno = 0
+Nov 06 11:27:48.375	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:27:48.578	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:27:49.078	ERRO - JHTTP	connect error	fd = 1060	this = 6215888	errno = 0
+Nov 06 11:27:49.093	ERRO - JHTTP	connect error	fd = 1060	this = 8908032	errno = 0
+Nov 06 11:27:49.093	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:27:49.296	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:34:15.046	ERRO - JHTTP	connect error	fd = 964	this = 16701408	errno = 0
+Nov 06 11:34:15.046	ERRO - JHTTP	connect error	fd = 1004	this = 18332304	errno = 0
+Nov 06 11:34:15.046	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:34:15.250	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:34:16.140	ERRO - JHTTP	connect error	fd = 1016	this = 16701408	errno = 0
+Nov 06 11:34:16.156	ERRO - JHTTP	connect error	fd = 1016	this = 18332640	errno = 0
+Nov 06 11:34:16.156	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:34:16.359	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:34:17.171	ERRO - JHTTP	connect error	fd = 1008	this = 16701408	errno = 0
+Nov 06 11:34:17.187	ERRO - JHTTP	connect error	fd = 1008	this = 18332640	errno = 0
+Nov 06 11:34:17.187	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:34:17.390	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:34:18.250	ERRO - JHTTP	connect error	fd = 1040	this = 16701408	errno = 0
+Nov 06 11:34:18.265	ERRO - JHTTP	connect error	fd = 1040	this = 18512464	errno = 0
+Nov 06 11:34:18.265	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:34:18.468	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:34:19.500	ERRO - JHTTP	connect error	fd = 968	this = 16701408	errno = 0
+Nov 06 11:34:19.500	ERRO - JHTTP	connect error	fd = 968	this = 18512800	errno = 0
+Nov 06 11:34:19.515	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:34:19.718	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:34:20.265	ERRO - JHTTP	connect error	fd = 1056	this = 16701408	errno = 0
+Nov 06 11:34:20.281	ERRO - JHTTP	connect error	fd = 1056	this = 73067232	errno = 0
+Nov 06 11:34:20.281	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:34:20.484	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:34:21.984	ERRO - JHTTP	connect error	fd = 1040	this = 16701408	errno = 0
+Nov 06 11:34:21.984	ERRO - JHTTP	connect error	fd = 1040	this = 19130944	errno = 0
+Nov 06 11:34:21.000	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:34:21.203	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:44:03.531	ERRO - JHTTP	connect error	fd = 968	this = 10410512	errno = 0
+Nov 06 11:44:03.531	ERRO - JHTTP	connect error	fd = 992	this = 11790880	errno = 0
+Nov 06 11:44:03.531	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:44:03.734	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:44:04.703	ERRO - JHTTP	connect error	fd = 1012	this = 10410512	errno = 0
+Nov 06 11:44:04.703	ERRO - JHTTP	connect error	fd = 1012	this = 11791232	errno = 0
+Nov 06 11:44:04.718	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:44:05.921	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:44:05.765	ERRO - JHTTP	connect error	fd = 992	this = 10410512	errno = 0
+Nov 06 11:44:05.781	ERRO - JHTTP	connect error	fd = 992	this = 11979568	errno = 0
+Nov 06 11:44:05.781	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:44:06.984	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:44:06.796	ERRO - JHTTP	connect error	fd = 1036	this = 10410512	errno = 0
+Nov 06 11:44:06.812	ERRO - JHTTP	connect error	fd = 1036	this = 12448128	errno = 0
+Nov 06 11:44:07.812	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:44:07.015	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:44:08.890	ERRO - JHTTP	connect error	fd = 1000	this = 10410512	errno = 0
+Nov 06 11:44:08.906	ERRO - JHTTP	connect error	fd = 1000	this = 12459024	errno = 0
+Nov 06 11:44:08.921	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:44:08.125	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:44:08.656	ERRO - JHTTP	connect error	fd = 1040	this = 10410512	errno = 0
+Nov 06 11:44:08.656	ERRO - JHTTP	connect error	fd = 1040	this = 66289168	errno = 0
+Nov 06 11:44:08.671	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:44:09.875	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:44:09.406	ERRO - JHTTP	connect error	fd = 1064	this = 10410512	errno = 0
+Nov 06 11:44:09.421	ERRO - JHTTP	connect error	fd = 1064	this = 12574432	errno = 0
+Nov 06 11:44:09.421	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:44:09.625	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:45:40.359	ERRO - JHTTP	connect error	fd = 976	this = 12507680	errno = 0
+Nov 06 11:45:40.359	ERRO - JHTTP	connect error	fd = 1016	this = 13487296	errno = 0
+Nov 06 11:45:40.375	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:45:40.578	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:45:41.500	ERRO - JHTTP	connect error	fd = 972	this = 12507680	errno = 0
+Nov 06 11:45:41.500	ERRO - JHTTP	connect error	fd = 972	this = 13656384	errno = 0
+Nov 06 11:45:41.500	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:45:41.718	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:45:42.640	ERRO - JHTTP	connect error	fd = 1032	this = 12507680	errno = 0
+Nov 06 11:45:42.656	ERRO - JHTTP	connect error	fd = 1032	this = 13657136	errno = 0
+Nov 06 11:45:42.656	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:45:43.859	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:45:43.734	ERRO - JHTTP	connect error	fd = 1040	this = 12507680	errno = 0
+Nov 06 11:45:43.734	ERRO - JHTTP	connect error	fd = 1040	this = 13657488	errno = 0
+Nov 06 11:45:43.750	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:45:44.953	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:45:45.015	ERRO - JHTTP	connect error	fd = 968	this = 12507680	errno = 0
+Nov 06 11:45:45.015	ERRO - JHTTP	connect error	fd = 968	this = 13658768	errno = 0
+Nov 06 11:45:45.031	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:45:45.234	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:45:45.750	ERRO - JHTTP	connect error	fd = 1040	this = 12507680	errno = 0
+Nov 06 11:45:45.750	ERRO - JHTTP	connect error	fd = 1040	this = 68152256	errno = 0
+Nov 06 11:45:45.765	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:45:46.968	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:45:46.468	ERRO - JHTTP	connect error	fd = 972	this = 12507680	errno = 0
+Nov 06 11:45:46.484	ERRO - JHTTP	connect error	fd = 972	this = 14271408	errno = 0
+Nov 06 11:45:46.484	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:45:46.703	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:48:23.437	ERRO - JHTTP	connect error	fd = 972	this = 8312688	errno = 0
+Nov 06 11:48:23.437	ERRO - JHTTP	connect error	fd = 1004	this = 8974816	errno = 0
+Nov 06 11:48:23.453	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:48:23.656	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:48:24.640	ERRO - JHTTP	connect error	fd = 1028	this = 8312688	errno = 0
+Nov 06 11:48:24.640	ERRO - JHTTP	connect error	fd = 1028	this = 9149296	errno = 0
+Nov 06 11:48:24.656	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:48:25.859	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:48:25.656	ERRO - JHTTP	connect error	fd = 1008	this = 8312688	errno = 0
+Nov 06 11:48:25.656	ERRO - JHTTP	connect error	fd = 1008	this = 9160800	errno = 0
+Nov 06 11:48:25.671	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:48:26.875	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:48:26.781	ERRO - JHTTP	connect error	fd = 1032	this = 8312688	errno = 0
+Nov 06 11:48:26.781	ERRO - JHTTP	connect error	fd = 1032	this = 9619808	errno = 0
+Nov 06 11:48:26.796	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:48:27.000	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:48:28.890	ERRO - JHTTP	connect error	fd = 1072	this = 8312688	errno = 0
+Nov 06 11:48:28.906	ERRO - JHTTP	connect error	fd = 1072	this = 63480256	errno = 0
+Nov 06 11:48:28.906	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:48:28.109	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:48:28.671	ERRO - JHTTP	connect error	fd = 1056	this = 8312688	errno = 0
+Nov 06 11:48:28.671	ERRO - JHTTP	connect error	fd = 1056	this = 9749120	errno = 0
+Nov 06 11:48:28.687	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:48:29.890	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:48:29.468	ERRO - JHTTP	connect error	fd = 1076	this = 8312688	errno = 0
+Nov 06 11:48:29.468	ERRO - JHTTP	connect error	fd = 1076	this = 9754896	errno = 0
+Nov 06 11:48:29.484	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:48:29.687	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:19.562	ERRO - JHTTP	connect error	fd = 976	this = 8312832	errno = 0
+Nov 06 11:49:19.562	ERRO - JHTTP	connect error	fd = 1008	this = 9944400	errno = 0
+Nov 06 11:49:19.578	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:19.781	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:20.703	ERRO - JHTTP	connect error	fd = 1028	this = 8312832	errno = 0
+Nov 06 11:49:20.703	ERRO - JHTTP	connect error	fd = 1028	this = 9946752	errno = 0
+Nov 06 11:49:20.718	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:21.921	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:21.671	ERRO - JHTTP	connect error	fd = 1052	this = 8312832	errno = 0
+Nov 06 11:49:21.687	ERRO - JHTTP	connect error	fd = 1052	this = 10128080	errno = 0
+Nov 06 11:49:21.687	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:22.906	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:23.875	ERRO - JHTTP	connect error	fd = 1080	this = 8312832	errno = 0
+Nov 06 11:49:23.875	ERRO - JHTTP	connect error	fd = 1080	this = 10121408	errno = 0
+Nov 06 11:49:23.890	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:23.093	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:24.046	ERRO - JHTTP	connect error	fd = 1096	this = 8312832	errno = 0
+Nov 06 11:49:24.046	ERRO - JHTTP	connect error	fd = 1096	this = 10123872	errno = 0
+Nov 06 11:49:24.062	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:24.265	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:24.796	ERRO - JHTTP	connect error	fd = 1044	this = 8312832	errno = 0
+Nov 06 11:49:24.796	ERRO - JHTTP	connect error	fd = 1044	this = 64744176	errno = 0
+Nov 06 11:49:24.812	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:25.015	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:25.562	ERRO - JHTTP	connect error	fd = 1096	this = 8312832	errno = 0
+Nov 06 11:49:25.562	ERRO - JHTTP	connect error	fd = 1096	this = 10740544	errno = 0
+Nov 06 11:49:25.562	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:25.781	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:33.500	ERRO - JHTTP	connect error	fd = 964	this = 6216816	errno = 0
+Nov 06 11:49:33.500	ERRO - JHTTP	connect error	fd = 1012	this = 8501264	errno = 0
+Nov 06 11:49:33.515	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:33.718	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:34.609	ERRO - JHTTP	connect error	fd = 980	this = 6216816	errno = 0
+Nov 06 11:49:34.625	ERRO - JHTTP	connect error	fd = 980	this = 8676064	errno = 0
+Nov 06 11:49:34.625	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:35.828	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:35.640	ERRO - JHTTP	connect error	fd = 1020	this = 6216816	errno = 0
+Nov 06 11:49:35.640	ERRO - JHTTP	connect error	fd = 1020	this = 8676416	errno = 0
+Nov 06 11:49:35.656	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:36.859	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:36.734	ERRO - JHTTP	connect error	fd = 1032	this = 6216816	errno = 0
+Nov 06 11:49:36.734	ERRO - JHTTP	connect error	fd = 1032	this = 8678544	errno = 0
+Nov 06 11:49:36.734	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:37.953	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:38.875	ERRO - JHTTP	connect error	fd = 1028	this = 6216816	errno = 0
+Nov 06 11:49:38.890	ERRO - JHTTP	connect error	fd = 1028	this = 9007328	errno = 0
+Nov 06 11:49:38.890	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:38.093	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:38.609	ERRO - JHTTP	connect error	fd = 976	this = 6216816	errno = 0
+Nov 06 11:49:38.609	ERRO - JHTTP	connect error	fd = 976	this = 62385424	errno = 0
+Nov 06 11:49:38.625	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:39.828	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 11:49:39.328	ERRO - JHTTP	connect error	fd = 1048	this = 6216816	errno = 0
+Nov 06 11:49:39.328	ERRO - JHTTP	connect error	fd = 1048	this = 9007680	errno = 0
+Nov 06 11:49:39.343	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 11:49:39.546	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:19:03.546	ERRO - JHTTP	connect error	fd = 960	this = 16832160	errno = 0
+Nov 06 13:19:03.546	ERRO - JHTTP	connect error	fd = 1032	this = 18858976	errno = 0
+Nov 06 13:19:03.562	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:19:03.765	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:19:04.656	ERRO - JHTTP	connect error	fd = 988	this = 16832160	errno = 0
+Nov 06 13:19:04.671	ERRO - JHTTP	connect error	fd = 988	this = 18859328	errno = 0
+Nov 06 13:19:04.671	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:19:05.875	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:19:05.718	ERRO - JHTTP	connect error	fd = 1048	this = 16832160	errno = 0
+Nov 06 13:19:05.718	ERRO - JHTTP	connect error	fd = 1048	this = 19040800	errno = 0
+Nov 06 13:19:05.718	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:19:06.937	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:19:06.796	ERRO - JHTTP	connect error	fd = 956	this = 16832160	errno = 0
+Nov 06 13:19:06.796	ERRO - JHTTP	connect error	fd = 956	this = 19511712	errno = 0
+Nov 06 13:19:06.812	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:19:07.015	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:19:08.953	ERRO - JHTTP	connect error	fd = 1072	this = 16832160	errno = 0
+Nov 06 13:19:08.953	ERRO - JHTTP	connect error	fd = 1072	this = 19521056	errno = 0
+Nov 06 13:19:08.968	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:19:08.171	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:19:08.765	ERRO - JHTTP	connect error	fd = 1056	this = 16832160	errno = 0
+Nov 06 13:19:08.765	ERRO - JHTTP	connect error	fd = 1056	this = 19521056	errno = 0
+Nov 06 13:19:08.781	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:19:09.984	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:19:09.500	ERRO - JHTTP	connect error	fd = 1060	this = 16832160	errno = 0
+Nov 06 13:19:09.515	ERRO - JHTTP	connect error	fd = 1060	this = 19645632	errno = 0
+Nov 06 13:19:09.515	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:19:09.718	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:20:36.984	ERRO - JHTTP	connect error	fd = 980	this = 6215760	errno = 0
+Nov 06 13:20:36.984	ERRO - JHTTP	connect error	fd = 1000	this = 8444768	errno = 0
+Nov 06 13:20:36.000	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:20:36.203	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:20:37.031	ERRO - JHTTP	connect error	fd = 1012	this = 6215760	errno = 0
+Nov 06 13:20:37.046	ERRO - JHTTP	connect error	fd = 1012	this = 8621344	errno = 0
+Nov 06 13:20:37.046	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:20:37.250	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:20:38.062	ERRO - JHTTP	connect error	fd = 1044	this = 6215760	errno = 0
+Nov 06 13:20:38.078	ERRO - JHTTP	connect error	fd = 1044	this = 8615136	errno = 0
+Nov 06 13:20:38.078	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:20:38.281	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:20:39.140	ERRO - JHTTP	connect error	fd = 1000	this = 6215760	errno = 0
+Nov 06 13:20:39.140	ERRO - JHTTP	connect error	fd = 1000	this = 8616240	errno = 0
+Nov 06 13:20:39.156	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:20:39.359	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:20:40.312	ERRO - JHTTP	connect error	fd = 1076	this = 6215760	errno = 0
+Nov 06 13:20:40.312	ERRO - JHTTP	connect error	fd = 1076	this = 61251680	errno = 0
+Nov 06 13:20:40.328	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:20:40.531	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:20:41.046	ERRO - JHTTP	connect error	fd = 1100	this = 6215760	errno = 0
+Nov 06 13:20:41.062	ERRO - JHTTP	connect error	fd = 1100	this = 61402384	errno = 0
+Nov 06 13:20:41.062	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:20:41.265	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:20:41.781	ERRO - JHTTP	connect error	fd = 1060	this = 6215760	errno = 0
+Nov 06 13:20:41.796	ERRO - JHTTP	connect error	fd = 1060	this = 9233808	errno = 0
+Nov 06 13:20:41.796	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:20:42.000	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:22:42.046	ERRO - JHTTP	connect error	fd = 976	this = 16832560	errno = 0
+Nov 06 13:22:42.046	ERRO - JHTTP	connect error	fd = 1008	this = 18527600	errno = 0
+Nov 06 13:22:42.062	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:22:42.265	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:22:43.140	ERRO - JHTTP	connect error	fd = 972	this = 16832560	errno = 0
+Nov 06 13:22:43.156	ERRO - JHTTP	connect error	fd = 972	this = 18707536	errno = 0
+Nov 06 13:22:43.156	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:22:43.359	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:22:44.140	ERRO - JHTTP	connect error	fd = 1036	this = 16832560	errno = 0
+Nov 06 13:22:44.156	ERRO - JHTTP	connect error	fd = 1036	this = 19021904	errno = 0
+Nov 06 13:22:44.156	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:22:44.359	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:22:45.156	ERRO - JHTTP	connect error	fd = 1052	this = 16832560	errno = 0
+Nov 06 13:22:45.156	ERRO - JHTTP	connect error	fd = 1052	this = 19032800	errno = 0
+Nov 06 13:22:45.171	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:22:45.375	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:22:46.265	ERRO - JHTTP	connect error	fd = 964	this = 16832560	errno = 0
+Nov 06 13:22:46.265	ERRO - JHTTP	connect error	fd = 964	this = 19033904	errno = 0
+Nov 06 13:22:46.265	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:22:46.484	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:22:47.000	ERRO - JHTTP	connect error	fd = 1048	this = 16832560	errno = 0
+Nov 06 13:22:47.000	ERRO - JHTTP	connect error	fd = 1048	this = 73525648	errno = 0
+Nov 06 13:22:47.015	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:22:47.218	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:22:47.718	ERRO - JHTTP	connect error	fd = 1028	this = 16832560	errno = 0
+Nov 06 13:22:47.734	ERRO - JHTTP	connect error	fd = 1028	this = 19314400	errno = 0
+Nov 06 13:22:47.734	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:22:48.937	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:23:36.140	ERRO - JHTTP	connect error	fd = 972	this = 20897328	errno = 0
+Nov 06 13:23:36.140	ERRO - JHTTP	connect error	fd = 996	this = 22583664	errno = 0
+Nov 06 13:23:36.140	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:23:36.343	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:23:37.234	ERRO - JHTTP	connect error	fd = 1004	this = 20897328	errno = 0
+Nov 06 13:23:37.234	ERRO - JHTTP	connect error	fd = 1004	this = 22574176	errno = 0
+Nov 06 13:23:37.250	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:23:37.453	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:23:38.265	ERRO - JHTTP	connect error	fd = 1032	this = 20897328	errno = 0
+Nov 06 13:23:38.265	ERRO - JHTTP	connect error	fd = 1032	this = 22574720	errno = 0
+Nov 06 13:23:38.281	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:23:38.484	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:23:39.312	ERRO - JHTTP	connect error	fd = 1052	this = 20897328	errno = 0
+Nov 06 13:23:39.328	ERRO - JHTTP	connect error	fd = 1052	this = 22563296	errno = 0
+Nov 06 13:23:39.328	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:23:39.546	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:23:40.343	ERRO - JHTTP	connect error	fd = 1048	this = 20897328	errno = 0
+Nov 06 13:23:40.343	ERRO - JHTTP	connect error	fd = 1048	this = 22568336	errno = 0
+Nov 06 13:23:40.359	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:23:40.562	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:23:41.125	ERRO - JHTTP	connect error	fd = 1012	this = 20897328	errno = 0
+Nov 06 13:23:41.125	ERRO - JHTTP	connect error	fd = 1012	this = 23194752	errno = 0
+Nov 06 13:23:41.125	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:23:41.343	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:23:42.859	ERRO - JHTTP	connect error	fd = 1060	this = 20897328	errno = 0
+Nov 06 13:23:42.859	ERRO - JHTTP	connect error	fd = 1060	this = 23179808	errno = 0
+Nov 06 13:23:42.875	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:23:42.078	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:26:50.562	ERRO - JHTTP	connect error	fd = 968	this = 14735072	errno = 0
+Nov 06 13:26:50.562	ERRO - JHTTP	connect error	fd = 1008	this = 15966528	errno = 0
+Nov 06 13:26:50.578	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:26:50.781	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:26:51.781	ERRO - JHTTP	connect error	fd = 1020	this = 14735072	errno = 0
+Nov 06 13:26:51.781	ERRO - JHTTP	connect error	fd = 1020	this = 15953392	errno = 0
+Nov 06 13:26:51.796	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:26:52.000	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:26:52.796	ERRO - JHTTP	connect error	fd = 1044	this = 14735072	errno = 0
+Nov 06 13:26:52.812	ERRO - JHTTP	connect error	fd = 1044	this = 15953392	errno = 0
+Nov 06 13:26:53.812	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:26:53.031	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:26:54.906	ERRO - JHTTP	connect error	fd = 1060	this = 14735072	errno = 0
+Nov 06 13:26:54.906	ERRO - JHTTP	connect error	fd = 1060	this = 15955056	errno = 0
+Nov 06 13:26:54.921	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:26:54.125	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:26:55.078	ERRO - JHTTP	connect error	fd = 1056	this = 14735072	errno = 0
+Nov 06 13:26:55.093	ERRO - JHTTP	connect error	fd = 1056	this = 15949136	errno = 0
+Nov 06 13:26:55.093	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:26:55.312	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:26:56.828	ERRO - JHTTP	connect error	fd = 1016	this = 14735072	errno = 0
+Nov 06 13:26:56.828	ERRO - JHTTP	connect error	fd = 1016	this = 71756528	errno = 0
+Nov 06 13:26:56.843	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:26:56.046	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:26:56.546	ERRO - JHTTP	connect error	fd = 1056	this = 14735072	errno = 0
+Nov 06 13:26:56.546	ERRO - JHTTP	connect error	fd = 1056	this = 16568592	errno = 0
+Nov 06 13:26:56.562	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:26:56.765	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:30:25.875	ERRO - JHTTP	connect error	fd = 960	this = 10411024	errno = 0
+Nov 06 13:30:25.875	ERRO - JHTTP	connect error	fd = 992	this = 11571696	errno = 0
+Nov 06 13:30:25.890	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:30:25.093	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:40:44.828	ERRO - JHTTP	connect error	fd = 976	this = 14604704	errno = 0
+Nov 06 13:40:44.828	ERRO - JHTTP	connect error	fd = 1016	this = 16813968	errno = 0
+Nov 06 13:40:44.843	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:40:44.046	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:41:22.140	ERRO - JHTTP	connect error	fd = 972	this = 16702288	errno = 0
+Nov 06 13:41:22.140	ERRO - JHTTP	connect error	fd = 1004	this = 11590992	errno = 0
+Nov 06 13:41:22.140	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:41:22.343	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:41:33.171	ERRO - JHTTP	connect error	fd = 980	this = 20897248	errno = 0
+Nov 06 13:41:33.171	ERRO - JHTTP	connect error	fd = 1000	this = 22974896	errno = 0
+Nov 06 13:41:33.187	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:41:33.390	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 13:45:00.968	ERRO - JHTTP	connect error	fd = 960	this = 12508048	errno = 0
+Nov 06 13:45:00.984	ERRO - JHTTP	connect error	fd = 992	this = 13348704	errno = 0
+Nov 06 13:45:00.984	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 13:45:00.187	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 14:03:56.453	ERRO - JHTTP	connect error	fd = 960	this = 8443936	errno = 0
+Nov 06 14:03:56.453	ERRO - JHTTP	connect error	fd = 992	this = 9738432	errno = 0
+Nov 06 14:03:56.468	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 14:03:56.671	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 14:14:31.203	ERRO - JHTTP	connect error	fd = 924	this = 10410432	errno = 0
+Nov 06 14:14:31.203	ERRO - JHTTP	connect error	fd = 992	this = 11116592	errno = 0
+Nov 06 14:14:31.218	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 14:14:31.421	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 14:15:08.343	ERRO - JHTTP	connect error	fd = 1008	this = 16833792	errno = 0
+Nov 06 14:15:08.343	ERRO - JHTTP	connect error	fd = 1052	this = 19239424	errno = 0
+Nov 06 14:15:08.359	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 14:15:08.562	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 14:17:51.562	ERRO - JHTTP	connect error	fd = 980	this = 8313856	errno = 0
+Nov 06 14:17:51.562	ERRO - JHTTP	connect error	fd = 1004	this = 3383776	errno = 0
+Nov 06 14:17:51.562	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 14:17:51.765	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 14:20:34.171	ERRO - JHTTP	connect error	fd = 984	this = 6216432	errno = 0
+Nov 06 14:20:34.171	ERRO - JHTTP	connect error	fd = 996	this = 7507904	errno = 0
+Nov 06 14:20:34.171	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 14:20:34.375	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 06 14:37:06.156	ERRO - JHTTP	connect error	fd = 960	this = 20896336	errno = 0
+Nov 06 14:37:06.156	ERRO - JHTTP	connect error	fd = 996	this = 22324640	errno = 0
+Nov 06 14:37:06.171	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 06 14:37:06.375	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 07 17:50:18.968	ERRO - JHTTP	select timeout before recv
+Nov 07 17:50:18.968	ERRO - ASR-JNI	asrclient: stop error = -90010
+Nov 15 18:15:26.156	ERRO - JHTTP	recv	fd = 1076	this = 21457808	errno = 0
+Nov 15 18:15:26.171	ERRO - JHTTP	select timeout before recv
+Nov 15 18:15:26.171	ERRO - ASR-JNI	asrclient: stop error = -90008
+Nov 15 18:17:05.937	ERRO - JHTTP	select timeout before recv
+Nov 15 18:17:05.937	ERRO - ASR-JNI	asrclient: stop error = -90010
+Nov 15 18:17:24.734	ERRO - JHTTP	select timeout before recv
+Nov 15 18:17:24.734	ERRO - ASR-JNI	asrclient: stop error = -90010
+Nov 15 18:17:44.546	ERRO - JHTTP	select timeout before recv
+Nov 15 18:17:44.546	ERRO - ASR-JNI	asrclient: stop error = -90010
+Nov 15 18:18:04.250	ERRO - JHTTP	select timeout before recv
+Nov 15 18:18:04.250	ERRO - ASR-JNI	asrclient: stop error = -90010
+Nov 15 18:18:24.265	ERRO - JHTTP	select timeout before recv
+Nov 15 18:18:24.281	ERRO - ASR-JNI	asrclient: stop error = -90010
+Nov 15 18:18:44.031	ERRO - JHTTP	select timeout before recv
+Nov 15 18:18:44.046	ERRO - ASR-JNI	asrclient: stop error = -90010
+Nov 15 18:19:20.328	ERRO - JHTTP	select timeout before recv
+Nov 15 18:19:20.328	ERRO - ASR-JNI	asrclient: stop error = -90010
+Nov 15 18:19:39.359	ERRO - JHTTP	select timeout before recv
+Nov 15 18:19:39.359	ERRO - ASR-JNI	asrclient: stop error = -90010
+Nov 15 18:20:00.453	ERRO - JHTTP	select timeout before recv
+Nov 15 18:20:00.453	ERRO - ASR-JNI	asrclient: stop error = -90010
+Nov 15 18:20:19.515	ERRO - JHTTP	select timeout before recv
+Nov 15 18:20:19.531	ERRO - ASR-JNI	asrclient: stop error = -90010
+Nov 15 19:10:58.015	ERRO - JHTTP	connect error	fd = 976	this = 10411504	errno = 0
+Nov 15 19:10:58.015	ERRO - JHTTP	connect error	fd = 1008	this = 12639760	errno = 0
+Nov 15 19:10:58.031	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:10:58.234	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 15 19:10:58.734	ERRO - JHTTP	connect error	fd = 1012	this = 10411504	errno = 0
+Nov 15 19:10:58.750	ERRO - JHTTP	connect error	fd = 1012	this = 12640480	errno = 0
+Nov 15 19:10:58.750	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:10:59.953	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 15 19:11:00.875	ERRO - JHTTP	connect error	fd = 1020	this = 10411504	errno = 0
+Nov 15 19:11:00.875	ERRO - JHTTP	connect error	fd = 1020	this = 12818160	errno = 0
+Nov 15 19:11:00.890	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:11:00.093	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 15 19:11:00.656	ERRO - JHTTP	connect error	fd = 968	this = 10411504	errno = 0
+Nov 15 19:11:00.656	ERRO - JHTTP	connect error	fd = 968	this = 12818496	errno = 0
+Nov 15 19:11:00.671	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:11:01.875	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 15 19:11:01.421	ERRO - JHTTP	connect error	fd = 1016	this = 10411504	errno = 0
+Nov 15 19:11:01.421	ERRO - JHTTP	connect error	fd = 1016	this = 12818496	errno = 0
+Nov 15 19:11:01.437	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:11:01.640	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 15 19:11:02.437	ERRO - JHTTP	connect error	fd = 1048	this = 10411504	errno = 0
+Nov 15 19:11:02.437	ERRO - JHTTP	connect error	fd = 1048	this = 12818496	errno = 0
+Nov 15 19:11:02.453	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:11:02.656	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 15 19:11:03.390	ERRO - JHTTP	connect error	fd = 1040	this = 10411504	errno = 0
+Nov 15 19:11:03.406	ERRO - JHTTP	connect error	fd = 1040	this = 12814368	errno = 0
+Nov 15 19:11:03.406	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:11:03.609	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 15 19:11:04.296	ERRO - JHTTP	connect error	fd = 1020	this = 10411504	errno = 0
+Nov 15 19:11:04.312	ERRO - JHTTP	connect error	fd = 1020	this = 12814368	errno = 0
+Nov 15 19:11:04.312	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:11:04.515	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 15 19:11:05.203	ERRO - JHTTP	connect error	fd = 968	this = 10411504	errno = 0
+Nov 15 19:11:05.203	ERRO - JHTTP	connect error	fd = 968	this = 12814704	errno = 0
+Nov 15 19:11:05.203	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:11:05.421	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 15 19:11:06.140	ERRO - JHTTP	connect error	fd = 1040	this = 10411504	errno = 0
+Nov 15 19:11:06.156	ERRO - JHTTP	connect error	fd = 1040	this = 65931312	errno = 0
+Nov 15 19:11:06.156	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:11:06.375	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 15 19:11:07.171	ERRO - JHTTP	connect error	fd = 1056	this = 10411504	errno = 0
+Nov 15 19:11:07.171	ERRO - JHTTP	connect error	fd = 1056	this = 66391632	errno = 0
+Nov 15 19:11:07.187	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:11:07.390	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 15 19:11:08.125	ERRO - JHTTP	connect error	fd = 1032	this = 10411504	errno = 0
+Nov 15 19:11:08.140	ERRO - JHTTP	connect error	fd = 1032	this = 66391968	errno = 0
+Nov 15 19:11:08.140	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:11:08.343	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 15 19:11:09.078	ERRO - JHTTP	connect error	fd = 1036	this = 10411504	errno = 0
+Nov 15 19:11:09.078	ERRO - JHTTP	connect error	fd = 1036	this = 66393856	errno = 0
+Nov 15 19:11:09.093	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 15 19:11:09.296	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:22.781	ERRO - JHTTP	connect error	fd = 960	this = 12507184	errno = 0
+Nov 18 10:03:22.796	ERRO - JHTTP	connect error	fd = 1004	this = 7379648	errno = 0
+Nov 18 10:03:22.796	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:23.015	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:23.531	ERRO - JHTTP	connect error	fd = 1028	this = 12507184	errno = 0
+Nov 18 10:03:23.546	ERRO - JHTTP	connect error	fd = 1028	this = 7566640	errno = 0
+Nov 18 10:03:23.546	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:23.750	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:24.609	ERRO - JHTTP	connect error	fd = 1008	this = 12507184	errno = 0
+Nov 18 10:03:24.625	ERRO - JHTTP	connect error	fd = 1008	this = 7567696	errno = 0
+Nov 18 10:03:24.625	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:25.828	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:25.437	ERRO - JHTTP	connect error	fd = 1032	this = 12507184	errno = 0
+Nov 18 10:03:25.453	ERRO - JHTTP	connect error	fd = 1032	this = 7892448	errno = 0
+Nov 18 10:03:25.453	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:25.671	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:26.171	ERRO - JHTTP	connect error	fd = 1008	this = 12507184	errno = 0
+Nov 18 10:03:26.171	ERRO - JHTTP	connect error	fd = 1008	this = 7893536	errno = 0
+Nov 18 10:03:26.187	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:26.390	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:27.156	ERRO - JHTTP	connect error	fd = 1032	this = 12507184	errno = 0
+Nov 18 10:03:27.156	ERRO - JHTTP	connect error	fd = 1032	this = 67889888	errno = 0
+Nov 18 10:03:27.171	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:27.375	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:28.218	ERRO - JHTTP	connect error	fd = 1056	this = 12507184	errno = 0
+Nov 18 10:03:28.218	ERRO - JHTTP	connect error	fd = 1056	this = 8178016	errno = 0
+Nov 18 10:03:28.234	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:28.437	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:29.078	ERRO - JHTTP	connect error	fd = 1064	this = 12507184	errno = 0
+Nov 18 10:03:29.093	ERRO - JHTTP	connect error	fd = 1064	this = 8178736	errno = 0
+Nov 18 10:03:29.109	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:29.312	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:30.000	ERRO - JHTTP	connect error	fd = 1032	this = 12507184	errno = 0
+Nov 18 10:03:30.000	ERRO - JHTTP	connect error	fd = 1032	this = 68037872	errno = 0
+Nov 18 10:03:30.015	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:30.218	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:31.046	ERRO - JHTTP	connect error	fd = 1088	this = 12507184	errno = 0
+Nov 18 10:03:31.062	ERRO - JHTTP	connect error	fd = 1088	this = 8183584	errno = 0
+Nov 18 10:03:31.062	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:31.281	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:32.000	ERRO - JHTTP	connect error	fd = 1088	this = 12507184	errno = 0
+Nov 18 10:03:32.015	ERRO - JHTTP	connect error	fd = 1088	this = 8183584	errno = 0
+Nov 18 10:03:32.015	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:32.234	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:33.968	ERRO - JHTTP	connect error	fd = 1108	this = 12507184	errno = 0
+Nov 18 10:03:33.984	ERRO - JHTTP	connect error	fd = 1108	this = 8183584	errno = 0
+Nov 18 10:03:33.984	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:33.187	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:34.906	ERRO - JHTTP	connect error	fd = 1128	this = 12507184	errno = 0
+Nov 18 10:03:34.906	ERRO - JHTTP	connect error	fd = 1128	this = 8183584	errno = 0
+Nov 18 10:03:34.921	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:34.125	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:35.859	ERRO - JHTTP	connect error	fd = 1040	this = 12507184	errno = 0
+Nov 18 10:03:35.875	ERRO - JHTTP	connect error	fd = 1040	this = 68358464	errno = 0
+Nov 18 10:03:35.875	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:35.093	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:36.859	ERRO - JHTTP	connect error	fd = 1116	this = 12507184	errno = 0
+Nov 18 10:03:36.875	ERRO - JHTTP	connect error	fd = 1116	this = 68358800	errno = 0
+Nov 18 10:03:36.875	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:36.078	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:37.000	ERRO - JHTTP	connect error	fd = 1128	this = 12507184	errno = 0
+Nov 18 10:03:37.015	ERRO - JHTTP	connect error	fd = 1128	this = 68360256	errno = 0
+Nov 18 10:03:37.031	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:37.234	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:38.125	ERRO - JHTTP	connect error	fd = 1076	this = 12507184	errno = 0
+Nov 18 10:03:38.140	ERRO - JHTTP	connect error	fd = 1076	this = 68360592	errno = 0
+Nov 18 10:03:38.140	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:38.359	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:39.203	ERRO - JHTTP	connect error	fd = 1132	this = 12507184	errno = 0
+Nov 18 10:03:39.203	ERRO - JHTTP	connect error	fd = 1132	this = 68360928	errno = 0
+Nov 18 10:03:39.218	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:39.421	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:40.218	ERRO - JHTTP	connect error	fd = 1076	this = 12507184	errno = 0
+Nov 18 10:03:40.234	ERRO - JHTTP	connect error	fd = 1076	this = 69491408	errno = 0
+Nov 18 10:03:40.234	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:40.437	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:41.437	ERRO - JHTTP	connect error	fd = 1124	this = 12507184	errno = 0
+Nov 18 10:03:41.437	ERRO - JHTTP	connect error	fd = 1124	this = 69491408	errno = 0
+Nov 18 10:03:41.453	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:41.671	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:42.468	ERRO - JHTTP	connect error	fd = 1072	this = 12507184	errno = 0
+Nov 18 10:03:42.468	ERRO - JHTTP	connect error	fd = 1072	this = 69491408	errno = 0
+Nov 18 10:03:42.484	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:42.687	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:43.593	ERRO - JHTTP	connect error	fd = 1080	this = 12507184	errno = 0
+Nov 18 10:03:43.593	ERRO - JHTTP	connect error	fd = 1080	this = 69491408	errno = 0
+Nov 18 10:03:43.609	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:43.812	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:44.593	ERRO - JHTTP	connect error	fd = 1164	this = 12507184	errno = 0
+Nov 18 10:03:44.609	ERRO - JHTTP	connect error	fd = 1164	this = 69491408	errno = 0
+Nov 18 10:03:44.609	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:45.812	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:45.703	ERRO - JHTTP	connect error	fd = 1076	this = 12507184	errno = 0
+Nov 18 10:03:45.703	ERRO - JHTTP	connect error	fd = 1076	this = 69492752	errno = 0
+Nov 18 10:03:45.718	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:46.921	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:46.750	ERRO - JHTTP	connect error	fd = 1128	this = 12507184	errno = 0
+Nov 18 10:03:46.750	ERRO - JHTTP	connect error	fd = 1128	this = 69492752	errno = 0
+Nov 18 10:03:46.765	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:47.968	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:47.562	ERRO - JHTTP	connect error	fd = 1120	this = 12507184	errno = 0
+Nov 18 10:03:47.578	ERRO - JHTTP	connect error	fd = 1120	this = 69492752	errno = 0
+Nov 18 10:03:47.578	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:47.781	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:48.484	ERRO - JHTTP	connect error	fd = 1164	this = 12507184	errno = 0
+Nov 18 10:03:48.515	ERRO - JHTTP	connect error	fd = 1164	this = 69492752	errno = 0
+Nov 18 10:03:48.531	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:48.734	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:49.468	ERRO - JHTTP	connect error	fd = 1076	this = 12507184	errno = 0
+Nov 18 10:03:49.468	ERRO - JHTTP	connect error	fd = 1076	this = 69492752	errno = 0
+Nov 18 10:03:49.484	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:49.687	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:50.359	ERRO - JHTTP	connect error	fd = 1156	this = 12507184	errno = 0
+Nov 18 10:03:50.359	ERRO - JHTTP	connect error	fd = 1156	this = 69492752	errno = 0
+Nov 18 10:03:50.375	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:50.578	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:51.218	ERRO - JHTTP	connect error	fd = 1172	this = 12507184	errno = 0
+Nov 18 10:03:51.218	ERRO - JHTTP	connect error	fd = 1172	this = 69492752	errno = 0
+Nov 18 10:03:51.234	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:51.437	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:52.171	ERRO - JHTTP	connect error	fd = 1156	this = 12507184	errno = 0
+Nov 18 10:03:52.171	ERRO - JHTTP	connect error	fd = 1156	this = 69492752	errno = 0
+Nov 18 10:03:52.187	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:52.390	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:53.875	ERRO - JHTTP	connect error	fd = 1188	this = 12507184	errno = 0
+Nov 18 10:03:53.890	ERRO - JHTTP	connect error	fd = 1188	this = 69492752	errno = 0
+Nov 18 10:03:53.890	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:53.109	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:53.625	ERRO - JHTTP	connect error	fd = 1172	this = 12507184	errno = 0
+Nov 18 10:03:53.640	ERRO - JHTTP	connect error	fd = 1172	this = 69492752	errno = 0
+Nov 18 10:03:53.656	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:54.859	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:54.625	ERRO - JHTTP	connect error	fd = 972	this = 12507184	errno = 0
+Nov 18 10:03:54.625	ERRO - JHTTP	connect error	fd = 972	this = 69492752	errno = 0
+Nov 18 10:03:54.640	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:55.843	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:55.546	ERRO - JHTTP	connect error	fd = 488	this = 12507184	errno = 0
+Nov 18 10:03:55.546	ERRO - JHTTP	connect error	fd = 488	this = 69492752	errno = 0
+Nov 18 10:03:55.562	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:55.765	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:56.484	ERRO - JHTTP	connect error	fd = 1196	this = 12507184	errno = 0
+Nov 18 10:03:56.484	ERRO - JHTTP	connect error	fd = 1196	this = 69492752	errno = 0
+Nov 18 10:03:56.500	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:56.703	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:57.421	ERRO - JHTTP	connect error	fd = 1200	this = 12507184	errno = 0
+Nov 18 10:03:57.437	ERRO - JHTTP	connect error	fd = 1200	this = 69492752	errno = 0
+Nov 18 10:03:57.437	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:57.640	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:58.390	ERRO - JHTTP	connect error	fd = 1156	this = 12507184	errno = 0
+Nov 18 10:03:58.406	ERRO - JHTTP	connect error	fd = 1156	this = 69492752	errno = 0
+Nov 18 10:03:58.421	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:58.625	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:03:59.343	ERRO - JHTTP	connect error	fd = 1216	this = 12507184	errno = 0
+Nov 18 10:03:59.343	ERRO - JHTTP	connect error	fd = 1216	this = 69492752	errno = 0
+Nov 18 10:03:59.359	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:03:59.562	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:00.156	ERRO - JHTTP	connect error	fd = 1228	this = 12507184	errno = 0
+Nov 18 10:04:00.171	ERRO - JHTTP	connect error	fd = 1228	this = 69492752	errno = 0
+Nov 18 10:04:00.171	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:00.375	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:01.968	ERRO - JHTTP	connect error	fd = 1232	this = 12507184	errno = 0
+Nov 18 10:04:01.984	ERRO - JHTTP	connect error	fd = 1232	this = 69492752	errno = 0
+Nov 18 10:04:01.984	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:01.187	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:02.843	ERRO - JHTTP	connect error	fd = 1232	this = 12507184	errno = 0
+Nov 18 10:04:02.843	ERRO - JHTTP	connect error	fd = 1232	this = 69492752	errno = 0
+Nov 18 10:04:02.859	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:02.062	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:02.718	ERRO - JHTTP	connect error	fd = 1196	this = 12507184	errno = 0
+Nov 18 10:04:02.734	ERRO - JHTTP	connect error	fd = 1196	this = 69492752	errno = 0
+Nov 18 10:04:02.734	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:03.937	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:03.296	ERRO - JHTTP	connect error	fd = 1172	this = 12507184	errno = 0
+Nov 18 10:04:03.312	ERRO - JHTTP	connect error	fd = 1172	this = 69492752	errno = 0
+Nov 18 10:04:03.312	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:03.515	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:04.906	ERRO - JHTTP	connect error	fd = 1236	this = 12507184	errno = 0
+Nov 18 10:04:04.906	ERRO - JHTTP	connect error	fd = 1236	this = 69492752	errno = 0
+Nov 18 10:04:04.921	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:04.125	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:04.796	ERRO - JHTTP	connect error	fd = 1176	this = 12507184	errno = 0
+Nov 18 10:04:04.796	ERRO - JHTTP	connect error	fd = 1176	this = 69492752	errno = 0
+Nov 18 10:04:04.812	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:05.015	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:05.578	ERRO - JHTTP	connect error	fd = 1216	this = 12507184	errno = 0
+Nov 18 10:04:05.593	ERRO - JHTTP	connect error	fd = 1216	this = 69492752	errno = 0
+Nov 18 10:04:05.593	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:05.796	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:06.312	ERRO - JHTTP	connect error	fd = 1176	this = 12507184	errno = 0
+Nov 18 10:04:06.312	ERRO - JHTTP	connect error	fd = 1176	this = 69492752	errno = 0
+Nov 18 10:04:06.328	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:06.546	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:07.046	ERRO - JHTTP	connect error	fd = 1168	this = 12507184	errno = 0
+Nov 18 10:04:07.062	ERRO - JHTTP	connect error	fd = 1168	this = 69492752	errno = 0
+Nov 18 10:04:07.062	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:07.281	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:08.828	ERRO - JHTTP	connect error	fd = 1172	this = 12507184	errno = 0
+Nov 18 10:04:08.843	ERRO - JHTTP	connect error	fd = 1172	this = 69492752	errno = 0
+Nov 18 10:04:08.859	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:08.062	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:09.265	ERRO - JHTTP	connect error	fd = 964	this = 12507184	errno = 0
+Nov 18 10:04:09.281	ERRO - JHTTP	connect error	fd = 964	this = 69492752	errno = 0
+Nov 18 10:04:09.296	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:09.500	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:10.156	ERRO - JHTTP	connect error	fd = 1076	this = 12507184	errno = 0
+Nov 18 10:04:10.171	ERRO - JHTTP	connect error	fd = 1076	this = 69492752	errno = 0
+Nov 18 10:04:10.171	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:10.375	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:11.531	ERRO - JHTTP	connect error	fd = 1180	this = 12507184	errno = 0
+Nov 18 10:04:11.531	ERRO - JHTTP	connect error	fd = 1180	this = 69492752	errno = 0
+Nov 18 10:04:11.546	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:11.750	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:12.328	ERRO - JHTTP	connect error	fd = 1212	this = 12507184	errno = 0
+Nov 18 10:04:12.328	ERRO - JHTTP	connect error	fd = 1212	this = 69492752	errno = 0
+Nov 18 10:04:12.343	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:12.546	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:13.281	ERRO - JHTTP	connect error	fd = 1040	this = 12507184	errno = 0
+Nov 18 10:04:13.281	ERRO - JHTTP	connect error	fd = 1040	this = 69492752	errno = 0
+Nov 18 10:04:13.296	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:13.500	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:14.140	ERRO - JHTTP	connect error	fd = 1220	this = 12507184	errno = 0
+Nov 18 10:04:14.156	ERRO - JHTTP	connect error	fd = 1220	this = 69492752	errno = 0
+Nov 18 10:04:14.156	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:14.359	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:15.000	ERRO - JHTTP	connect error	fd = 1164	this = 12507184	errno = 0
+Nov 18 10:04:15.000	ERRO - JHTTP	connect error	fd = 1164	this = 69492752	errno = 0
+Nov 18 10:04:15.015	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:15.218	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:16.906	ERRO - JHTTP	connect error	fd = 1124	this = 12507184	errno = 0
+Nov 18 10:04:16.921	ERRO - JHTTP	connect error	fd = 1124	this = 69492752	errno = 0
+Nov 18 10:04:16.921	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:16.125	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:16.796	ERRO - JHTTP	connect error	fd = 1220	this = 12507184	errno = 0
+Nov 18 10:04:16.796	ERRO - JHTTP	connect error	fd = 1220	this = 69492752	errno = 0
+Nov 18 10:04:16.812	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:17.015	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:04:18.187	ERRO - JHTTP	connect error	fd = 1240	this = 12507184	errno = 0
+Nov 18 10:04:18.187	ERRO - JHTTP	connect error	fd = 1240	this = 69492752	errno = 0
+Nov 18 10:04:18.203	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 10:04:18.406	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Nov 18 10:18:00.234	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:20:37.312	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:20:44.890	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:20:54.453	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:21:01.687	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:21:12.234	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:21:19.953	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:21:26.250	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:21:33.218	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:21:40.437	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:21:47.390	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:21:54.296	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:22:04.687	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:22:15.125	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:22:22.187	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:22:28.125	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:22:34.250	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:22:41.328	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:22:47.765	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:22:54.406	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:23:01.968	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:23:07.703	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:23:14.375	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:23:21.046	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:23:27.437	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:23:34.000	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:23:40.625	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:23:47.234	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:23:53.390	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:23:59.578	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:24:08.265	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:24:17.875	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:24:23.000	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:55:37.109	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:57:13.031	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:57:29.937	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:57:38.859	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:57:46.015	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 10:57:54.390	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 18 14:31:04.046	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:04.265	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:04.265	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:04.265	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:04.281	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:04.281	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:04.484	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:05.500	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:05.500	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:05.500	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:05.515	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:05.718	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:05.718	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:05.734	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:05.734	ERRO - JHTTP	recv	fd = 1032	this = 14601680	errno = 0
+Nov 18 14:31:05.734	ERRO - ASR-JNI	asrclient: resume error = -90005
+Nov 18 14:31:06.921	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:07.015	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:08.078	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:09.156	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:10.171	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:11.187	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:12.218	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:13.296	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:14.281	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:15.140	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:16.984	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:17.859	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:18.687	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:19.531	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:19.406	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:20.171	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:21.984	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:22.843	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:23.812	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:24.718	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:25.609	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:26.562	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:27.515	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:27.390	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:28.203	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:29.062	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:30.921	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:31.500	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:31.046	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:32.828	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:33.609	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:33.437	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:34.140	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:35.890	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:36.375	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:37.171	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:39.562	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:39.343	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:40.156	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:41.953	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:42.828	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:43.687	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:44.500	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:45.828	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:46.203	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:47.000	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:48.671	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:48.375	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:49.203	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:50.968	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:51.765	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:52.546	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:52.359	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:53.156	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:54.953	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:55.765	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:56.531	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:56.343	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:57.265	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:58.953	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:31:59.687	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:00.828	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:01.875	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:02.593	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:03.734	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:04.875	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:05.609	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:05.359	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:06.046	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:07.718	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:08.500	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:08.250	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:09.984	ERRO - ASR-JNI	asrclient: resume error = -91006
+Nov 18 14:32:09.187	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Nov 18 14:34:33.421	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.625	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.640	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.640	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.640	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.656	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.859	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.859	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.875	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.875	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.875	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.078	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.093	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.093	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.093	ERRO - JHTTP	recv	fd = 1128	this = 14130512	errno = 0
+Nov 18 14:34:34.109	ERRO - ASR-JNI	asrclient: resume error = -90005
+Nov 18 14:50:19.562	ERRO - ASR-JNI	asrclient: resume error = -91738
+Nov 18 14:55:03.000	ERRO - ASR-JNI	asrclient: resume error = -91134
+Nov 19 18:00:40.671	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 25 18:51:57.468	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 25 18:52:06.890	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 25 19:00:40.609	ERRO - ASR-JNI	asrclient: stop error = -91738
+Nov 28 17:07:42.390	ERRO - JHTTP	recv	fd = 1104	this = 9367056	errno = 0
+Nov 28 17:07:42.390	ERRO - JHTTP	select timeout before recv
+Nov 28 17:07:42.390	ERRO - ASR-JNI	asrclient: stop error = -90008
+Nov 28 17:09:12.687	ERRO - JHTTP	recv	fd = 1104	this = 9940752	errno = 0
+Nov 28 17:09:12.687	ERRO - JHTTP	select timeout before recv
+Nov 28 17:09:12.687	ERRO - ASR-JNI	asrclient: stop error = -90008
+Nov 28 17:21:24.734	ERRO - JHTTP	recv	fd = 1200	this = 11685200	errno = 0
+Nov 28 17:21:24.734	ERRO - JHTTP	select timeout before recv
+Nov 28 17:21:24.750	ERRO - ASR-JNI	asrclient: stop error = -90008
+Nov 28 17:21:34.562	ERRO - JHTTP	recv	fd = 1200	this = 11685200	errno = 0
+Nov 28 17:21:34.578	ERRO - JHTTP	select timeout before recv
+Nov 28 17:21:34.578	ERRO - ASR-JNI	asrclient: stop error = -90008
+Nov 28 17:22:09.843	ERRO - JHTTP	recv	fd = 1216	this = 11685200	errno = 0
+Nov 28 17:22:09.859	ERRO - JHTTP	select timeout before recv
+Nov 28 17:22:09.859	ERRO - ASR-JNI	asrclient: stop error = -90008
+Nov 28 17:38:17.578	ERRO - ASR-JNI	asrclient: stop error = -91804
+Nov 29 21:17:51.343	ERRO - ASR-JNI	asrclient: stop error = -91804
+Dec 03 11:43:18.250	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:18.453	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:18.468	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:18.468	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:18.468	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:18.484	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:18.687	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:18.687	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:18.703	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:18.703	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:18.703	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:19.906	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:19.921	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:19.921	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:19.921	ERRO - JHTTP	recv	fd = 1124	this = 15401744	errno = 0
+Dec 03 11:43:19.937	ERRO - ASR-JNI	asrclient: resume error = -90005
+Dec 03 11:43:19.140	ERRO - ASR-JNI	asrclient: stop error = -91006
+Dec 18 10:08:24.843	ERRO - JHTTP	connect error	fd = 984	this = 20895408	errno = 0
+Dec 18 10:08:26.890	ERRO - JHTTP	connect error	fd = 1040	this = 21871728	errno = 0
+Dec 18 10:08:26.906	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:08:26.109	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:08:29.984	ERRO - JHTTP	connect error	fd = 1056	this = 20895408	errno = 0
+Dec 18 10:08:31.046	ERRO - JHTTP	connect error	fd = 1056	this = 21854400	errno = 0
+Dec 18 10:08:31.046	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:08:31.250	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:08:34.500	ERRO - JHTTP	connect error	fd = 1052	this = 20895408	errno = 0
+Dec 18 10:08:36.546	ERRO - JHTTP	connect error	fd = 1052	this = 21854400	errno = 0
+Dec 18 10:08:36.562	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:08:36.765	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:08:39.656	ERRO - JHTTP	connect error	fd = 1040	this = 20895408	errno = 0
+Dec 18 10:08:41.703	ERRO - JHTTP	connect error	fd = 1040	this = 21854736	errno = 0
+Dec 18 10:08:41.703	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:08:42.906	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:08:44.703	ERRO - JHTTP	connect error	fd = 1080	this = 20895408	errno = 0
+Dec 18 10:08:46.734	ERRO - JHTTP	connect error	fd = 1080	this = 21854736	errno = 0
+Dec 18 10:08:46.750	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:08:47.953	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:08:50.046	ERRO - JHTTP	connect error	fd = 1072	this = 20895408	errno = 0
+Dec 18 10:08:52.109	ERRO - JHTTP	connect error	fd = 1072	this = 21854736	errno = 0
+Dec 18 10:08:52.109	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:08:52.312	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:08:55.453	ERRO - JHTTP	connect error	fd = 1052	this = 20895408	errno = 0
+Dec 18 10:08:57.500	ERRO - JHTTP	connect error	fd = 1052	this = 21854736	errno = 0
+Dec 18 10:08:57.515	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:08:57.718	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:09:01.781	ERRO - JHTTP	connect error	fd = 1044	this = 20895408	errno = 0
+Dec 18 10:09:03.812	ERRO - JHTTP	connect error	fd = 1044	this = 22470128	errno = 0
+Dec 18 10:09:03.828	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:09:03.031	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:09:06.109	ERRO - JHTTP	connect error	fd = 1096	this = 20895408	errno = 0
+Dec 18 10:09:08.156	ERRO - JHTTP	connect error	fd = 1096	this = 22045376	errno = 0
+Dec 18 10:09:08.156	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:09:08.375	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:09:11.546	ERRO - JHTTP	connect error	fd = 1116	this = 20895408	errno = 0
+Dec 18 10:09:13.578	ERRO - JHTTP	connect error	fd = 1116	this = 22046256	errno = 0
+Dec 18 10:09:13.593	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:09:14.796	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:09:17.890	ERRO - JHTTP	connect error	fd = 1104	this = 20895408	errno = 0
+Dec 18 10:09:19.921	ERRO - JHTTP	connect error	fd = 1132	this = 22046256	errno = 0
+Dec 18 10:09:19.937	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:09:19.140	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:09:22.171	ERRO - JHTTP	connect error	fd = 1112	this = 20895408	errno = 0
+Dec 18 10:09:24.218	ERRO - JHTTP	connect error	fd = 1112	this = 21674928	errno = 0
+Dec 18 10:09:24.218	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:09:24.437	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:09:27.578	ERRO - JHTTP	connect error	fd = 1148	this = 20895408	errno = 0
+Dec 18 10:09:29.609	ERRO - JHTTP	connect error	fd = 1148	this = 21674928	errno = 0
+Dec 18 10:09:29.625	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:09:30.828	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:09:33.953	ERRO - JHTTP	connect error	fd = 1128	this = 20895408	errno = 0
+Dec 18 10:09:35.000	ERRO - JHTTP	connect error	fd = 1128	this = 21674928	errno = 0
+Dec 18 10:09:35.000	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:09:35.203	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:09:38.312	ERRO - JHTTP	connect error	fd = 1112	this = 20895408	errno = 0
+Dec 18 10:09:40.359	ERRO - JHTTP	connect error	fd = 1112	this = 21674928	errno = 0
+Dec 18 10:09:40.359	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:09:40.562	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:09:44.890	ERRO - JHTTP	connect error	fd = 836	this = 20895408	errno = 0
+Dec 18 10:09:46.937	ERRO - JHTTP	connect error	fd = 836	this = 21674928	errno = 0
+Dec 18 10:09:46.937	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:09:46.156	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:09:49.437	ERRO - JHTTP	connect error	fd = 1144	this = 20895408	errno = 0
+Dec 18 10:09:51.484	ERRO - JHTTP	connect error	fd = 1144	this = 21674928	errno = 0
+Dec 18 10:09:51.500	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:09:51.703	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:09:55.921	ERRO - JHTTP	connect error	fd = 1004	this = 20895408	errno = 0
+Dec 18 10:09:57.968	ERRO - JHTTP	connect error	fd = 1004	this = 21675264	errno = 0
+Dec 18 10:09:57.968	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:09:57.187	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:10:00.437	ERRO - JHTTP	connect error	fd = 1120	this = 20895408	errno = 0
+Dec 18 10:10:02.468	ERRO - JHTTP	connect error	fd = 1120	this = 26134384	errno = 0
+Dec 18 10:10:02.484	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:10:02.687	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:10:06.953	ERRO - JHTTP	connect error	fd = 1096	this = 20895408	errno = 0
+Dec 18 10:10:08.984	ERRO - JHTTP	connect error	fd = 1096	this = 26134384	errno = 0
+Dec 18 10:10:08.000	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:10:08.203	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:10:11.375	ERRO - JHTTP	connect error	fd = 1144	this = 20895408	errno = 0
+Dec 18 10:10:13.421	ERRO - JHTTP	connect error	fd = 1144	this = 26134384	errno = 0
+Dec 18 10:10:13.437	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:10:13.640	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:10:17.921	ERRO - JHTTP	connect error	fd = 1044	this = 20895408	errno = 0
+Dec 18 10:10:19.968	ERRO - JHTTP	connect error	fd = 1044	this = 26134384	errno = 0
+Dec 18 10:10:19.968	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:10:19.171	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:10:22.296	ERRO - JHTTP	connect error	fd = 972	this = 20895408	errno = 0
+Dec 18 10:10:24.343	ERRO - JHTTP	connect error	fd = 972	this = 26134384	errno = 0
+Dec 18 10:10:24.359	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:10:24.562	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:10:27.609	ERRO - JHTTP	connect error	fd = 1068	this = 20895408	errno = 0
+Dec 18 10:10:29.656	ERRO - JHTTP	connect error	fd = 1068	this = 26134384	errno = 0
+Dec 18 10:10:29.671	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:10:30.875	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:10:33.093	ERRO - JHTTP	connect error	fd = 1160	this = 20895408	errno = 0
+Dec 18 10:10:35.125	ERRO - JHTTP	connect error	fd = 1160	this = 26134384	errno = 0
+Dec 18 10:10:35.140	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:10:35.343	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:10:38.468	ERRO - JHTTP	connect error	fd = 1152	this = 20895408	errno = 0
+Dec 18 10:10:40.515	ERRO - JHTTP	connect error	fd = 1152	this = 26134384	errno = 0
+Dec 18 10:10:40.531	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:10:40.734	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:10:44.875	ERRO - JHTTP	connect error	fd = 1160	this = 20895408	errno = 0
+Dec 18 10:10:46.921	ERRO - JHTTP	connect error	fd = 1160	this = 26134384	errno = 0
+Dec 18 10:10:46.937	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:10:46.156	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:10:49.359	ERRO - JHTTP	connect error	fd = 1112	this = 20895408	errno = 0
+Dec 18 10:10:51.406	ERRO - JHTTP	connect error	fd = 1112	this = 26134384	errno = 0
+Dec 18 10:10:51.406	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:10:51.625	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:10:55.812	ERRO - JHTTP	connect error	fd = 1096	this = 20895408	errno = 0
+Dec 18 10:10:57.859	ERRO - JHTTP	connect error	fd = 1096	this = 26134384	errno = 0
+Dec 18 10:10:57.875	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:10:57.078	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:11:00.171	ERRO - JHTTP	connect error	fd = 1140	this = 20895408	errno = 0
+Dec 18 10:11:02.203	ERRO - JHTTP	connect error	fd = 1140	this = 26134384	errno = 0
+Dec 18 10:11:02.218	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:11:02.421	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:11:05.562	ERRO - JHTTP	connect error	fd = 1096	this = 20895408	errno = 0
+Dec 18 10:11:07.593	ERRO - JHTTP	connect error	fd = 1096	this = 26134384	errno = 0
+Dec 18 10:11:07.609	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:11:08.812	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:11:11.218	ERRO - JHTTP	connect error	fd = 1092	this = 20895408	errno = 0
+Dec 18 10:11:13.265	ERRO - JHTTP	connect error	fd = 1092	this = 26134384	errno = 0
+Dec 18 10:11:13.265	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:11:13.484	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:11:17.859	ERRO - JHTTP	connect error	fd = 1120	this = 20895408	errno = 0
+Dec 18 10:11:19.906	ERRO - JHTTP	connect error	fd = 1120	this = 26134384	errno = 0
+Dec 18 10:11:19.921	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:11:19.125	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:11:22.437	ERRO - JHTTP	connect error	fd = 1152	this = 20895408	errno = 0
+Dec 18 10:11:24.468	ERRO - JHTTP	connect error	fd = 1152	this = 26134384	errno = 0
+Dec 18 10:11:24.484	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:11:24.703	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:11:28.968	ERRO - JHTTP	connect error	fd = 972	this = 20895408	errno = 0
+Dec 18 10:11:30.000	ERRO - JHTTP	connect error	fd = 972	this = 26134384	errno = 0
+Dec 18 10:11:30.015	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:11:30.218	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:11:33.687	ERRO - JHTTP	connect error	fd = 1068	this = 20895408	errno = 0
+Dec 18 10:11:35.734	ERRO - JHTTP	connect error	fd = 1068	this = 26134384	errno = 0
+Dec 18 10:11:35.734	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:11:36.953	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:11:39.828	ERRO - JHTTP	connect error	fd = 1088	this = 20895408	errno = 0
+Dec 18 10:11:41.875	ERRO - JHTTP	connect error	fd = 1088	this = 26134384	errno = 0
+Dec 18 10:11:41.875	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:11:41.093	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:11:44.937	ERRO - JHTTP	connect error	fd = 1088	this = 20895408	errno = 0
+Dec 18 10:11:46.968	ERRO - JHTTP	connect error	fd = 1088	this = 26134384	errno = 0
+Dec 18 10:11:46.984	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:11:46.187	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:11:49.031	ERRO - JHTTP	connect error	fd = 972	this = 20895408	errno = 0
+Dec 18 10:11:51.078	ERRO - JHTTP	connect error	fd = 972	this = 26134384	errno = 0
+Dec 18 10:11:51.093	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:11:51.296	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:11:54.203	ERRO - JHTTP	connect error	fd = 972	this = 20895408	errno = 0
+Dec 18 10:11:56.250	ERRO - JHTTP	connect error	fd = 972	this = 26134384	errno = 0
+Dec 18 10:11:56.265	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:11:56.468	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:11:59.578	ERRO - JHTTP	connect error	fd = 1144	this = 20895408	errno = 0
+Dec 18 10:12:01.625	ERRO - JHTTP	connect error	fd = 1144	this = 26134384	errno = 0
+Dec 18 10:12:01.640	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:12:02.843	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:12:05.093	ERRO - JHTTP	connect error	fd = 1140	this = 20895408	errno = 0
+Dec 18 10:12:07.125	ERRO - JHTTP	connect error	fd = 1140	this = 26134384	errno = 0
+Dec 18 10:12:07.140	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:12:07.359	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:12:10.640	ERRO - JHTTP	connect error	fd = 972	this = 20895408	errno = 0
+Dec 18 10:12:12.687	ERRO - JHTTP	connect error	fd = 972	this = 26134384	errno = 0
+Dec 18 10:12:12.687	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:12:13.906	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:12:16.203	ERRO - JHTTP	connect error	fd = 1044	this = 20895408	errno = 0
+Dec 18 10:12:18.234	ERRO - JHTTP	connect error	fd = 1044	this = 26134384	errno = 0
+Dec 18 10:12:18.250	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:12:18.453	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:12:21.718	ERRO - JHTTP	connect error	fd = 1136	this = 20895408	errno = 0
+Dec 18 10:12:23.750	ERRO - JHTTP	connect error	fd = 1136	this = 26134384	errno = 0
+Dec 18 10:12:23.765	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:12:24.968	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:12:27.093	ERRO - JHTTP	connect error	fd = 1116	this = 20895408	errno = 0
+Dec 18 10:12:29.156	ERRO - JHTTP	connect error	fd = 1116	this = 26134384	errno = 0
+Dec 18 10:12:29.171	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:12:29.375	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:12:32.500	ERRO - JHTTP	connect error	fd = 1112	this = 20895408	errno = 0
+Dec 18 10:12:34.531	ERRO - JHTTP	connect error	fd = 1112	this = 26134384	errno = 0
+Dec 18 10:12:34.546	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:12:34.750	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:12:37.765	ERRO - JHTTP	connect error	fd = 1112	this = 20895408	errno = 0
+Dec 18 10:12:40.812	ERRO - JHTTP	connect error	fd = 1112	this = 26134384	errno = 0
+Dec 18 10:12:40.812	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:12:40.031	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:12:43.343	ERRO - JHTTP	connect error	fd = 1160	this = 20895408	errno = 0
+Dec 18 10:12:45.390	ERRO - JHTTP	connect error	fd = 1160	this = 26134384	errno = 0
+Dec 18 10:12:45.390	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:12:45.609	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:12:48.468	ERRO - JHTTP	connect error	fd = 1092	this = 20895408	errno = 0
+Dec 18 10:12:50.562	ERRO - JHTTP	connect error	fd = 1092	this = 26134384	errno = 0
+Dec 18 10:12:50.578	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:12:51.781	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:12:53.671	ERRO - JHTTP	connect error	fd = 1132	this = 20895408	errno = 0
+Dec 18 10:12:55.718	ERRO - JHTTP	connect error	fd = 1132	this = 26134384	errno = 0
+Dec 18 10:12:55.718	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:12:56.921	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Dec 18 10:12:59.828	ERRO - JHTTP	connect error	fd = 1112	this = 20895408	errno = 0
+Dec 18 10:13:01.875	ERRO - JHTTP	connect error	fd = 1112	this = 26134384	errno = 0
+Dec 18 10:13:01.875	ERRO - ASR-JNI	asrclient: resume error = -91006
+Dec 18 10:13:01.093	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Mar 05 15:19:17.734	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 15:19:17.937	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:19:18.015	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 15:19:19.218	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:19:20.453	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 15:19:20.656	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:19:21.515	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 15:19:21.703	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:19:22.531	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:19:22.734	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:19:23.843	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:19:23.046	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:19:25.218	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 15:19:25.421	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:19:26.390	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:19:26.578	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:19:27.609	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:19:27.812	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:19:28.953	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 15:19:29.156	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:19:30.250	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 15:19:30.453	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:19:31.515	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:19:31.718	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:28:04.453	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:28:04.656	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:28:05.562	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:28:05.765	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:28:07.125	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:28:07.328	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:28:08.250	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 15:28:08.453	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:28:09.343	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:28:09.546	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:28:10.000	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 15:28:11.203	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:28:12.406	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:28:12.609	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:28:13.609	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:28:13.796	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:29:52.718	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:29:52.921	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:29:53.750	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:29:53.953	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:29:55.312	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:29:55.515	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:29:56.437	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:29:56.625	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:29:57.468	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:29:57.671	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:29:58.890	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:29:59.093	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:30:00.343	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:30:00.546	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:32:49.765	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:32:49.968	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:32:50.781	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:32:50.984	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:32:52.281	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:32:52.484	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:32:53.328	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:32:53.515	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:32:54.328	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:32:54.531	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:32:55.750	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:32:55.953	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:33:16.765	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:33:16.968	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:33:17.781	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:33:17.984	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:33:19.125	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:33:19.328	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:33:20.265	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:33:20.453	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:35:00.625	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:35:00.828	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:47:25.312	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 15:47:25.515	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:47:26.328	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:47:26.515	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:47:27.656	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:47:27.859	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:47:28.796	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 15:47:28.000	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:47:29.921	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:47:30.109	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:47:31.187	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:47:31.390	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:47:32.437	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:47:32.625	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:47:33.640	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:47:33.843	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:47:34.875	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:47:35.078	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:47:36.140	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:47:36.343	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:52:23.218	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:52:23.421	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:52:24.250	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:52:24.453	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:52:25.562	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:52:25.765	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:52:26.609	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:52:26.812	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:52:27.609	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:52:27.812	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:52:28.921	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:52:29.125	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:52:30.203	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:52:30.406	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:52:31.375	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:52:31.578	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:52:32.546	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:52:32.750	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:52:33.937	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:52:34.140	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 15:53:55.687	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 15:53:55.890	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:41:55.546	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:41:55.750	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:41:56.656	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:41:56.859	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:41:58.140	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:41:58.343	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:41:59.203	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:44:24.140	ERRO - JHTTP	connect error	fd = 972	this = 20895744	errno = 0
+Mar 05 16:44:26.218	ERRO - JHTTP	connect error	fd = 1040	this = 21941776	errno = 0
+Mar 05 16:44:26.218	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:44:26.421	ERRO - ASR-JNI	asrclient: send remain error = -91001
+Mar 05 16:45:30.546	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 16:45:30.750	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:31.656	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:31.859	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:33.156	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:33.359	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:34.296	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:34.484	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:35.375	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:35.578	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:36.718	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:36.921	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:37.984	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:38.187	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:39.140	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:39.343	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:40.312	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:40.515	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:41.656	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:41.859	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:42.906	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:43.093	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:44.171	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:44.359	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:45.453	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:45.656	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 16:45:46.671	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 16:45:46.875	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 17:06:31.453	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 17:06:31.656	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 17:06:32.562	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 17:06:32.765	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 17:06:34.234	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 17:06:34.437	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 17:06:35.312	ERRO - ASR-JNI	asrclient: resume error = -91006
+Mar 05 17:06:35.515	ERRO - ASR-JNI	asrclient: send remain error = -91006
+Mar 05 17:06:36.718	ERRO - ASR-JNI	asrclient: resume error = -91742
+Mar 05 17:06:36.921	ERRO - ASR-JNI	asrclient: send remain error = -91006
+May 11 20:38:57.031	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.031	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.031	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.031	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.031	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.234	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.234	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.234	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.234	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.234	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.437	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.437	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.437	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.437	ERRO - JHTTP	recv	fd = 1216	this = 62516416	errno = 0
+May 11 20:38:57.437	ERRO - ASR-JNI	asrclient: resume error = -90005
+May 11 20:38:57.640	ERRO - ASR-JNI	asrclient: stop error = -91006
+May 11 20:38:57.640	ERRO - JHTTP	connect error	fd = 1232	this = 8313904	errno = 0
+May 11 20:38:57.640	ERRO - JHTTP	connect error	fd = 1232	this = 62516416	errno = 0
+May 12 10:54:13.609	ERRO - JHTTP	connect error	fd = 464	this = 10410576	errno = 0
+May 12 10:54:34.609	ERRO - JHTTP	connect error	fd = 532	this = 10670464	errno = 0
+May 12 14:24:43.796	ERRO - JHTTP	connect error	fd = 956	this = 10410768	errno = 0
+May 12 15:14:02.156	ERRO - JHTTP	connect error	fd = 800	this = 8313392	errno = 0
+May 12 15:14:02.171	ERRO - JHTTP	connect error	fd = 992	this = 3522048	errno = 0
+May 12 16:50:00.718	ERRO - ASR-JNI	asrclient: stop error = -91804

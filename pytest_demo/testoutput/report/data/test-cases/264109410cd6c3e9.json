@@ -1,0 +1,115 @@
+{
+  "uid" : "264109410cd6c3e9",
+  "name" : "test_caoliao_get_demo[测试草料二维码get接口2]",
+  "fullName" : "testcases.test_caoliao_http_get_interface.TestHttpInterface#test_caoliao_get_demo",
+  "historyId" : "1d9e339fb5927fc2858a9f3bb10d60ca",
+  "time" : {
+    "start" : 1643188146722,
+    "stop" : 1643188146911,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_test",
+    "time" : {
+      "start" : 1643188146408,
+      "stop" : 1643188146408,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a0eb7f481c67cc97",
+      "name" : "log",
+      "source" : "a0eb7f481c67cc97.txt",
+      "type" : "text/plain",
+      "size" : 145
+    }, {
+      "uid" : "bee75b6d8ca74b3c",
+      "name" : "stdout",
+      "source" : "bee75b6d8ca74b3c.txt",
+      "type" : "text/plain",
+      "size" : 8417
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "login_test::0",
+    "time" : {
+      "start" : 1643188147381,
+      "stop" : 1643188147382,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "草料二维码post请求测试"
+  }, {
+    "name" : "tag",
+    "value" : "httptest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_caoliao_http_get_interface"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestHttpInterface"
+  }, {
+    "name" : "host",
+    "value" : "CD-PF1AQPCF"
+  }, {
+    "name" : "thread",
+    "value" : "12908-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_caoliao_http_get_interface"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "args",
+    "value" : "{'id': 'testget-2', 'name': '草料二维码get接口2', 'headers': {}, 'url': '/qrcode/getDefaultComponentMsg', 'method': 'get', 'expectdata': {'code': '1'}}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "httptest" ]
+  },
+  "source" : "264109410cd6c3e9.json",
+  "parameterValues" : [ "{'id': 'testget-2', 'name': '草料二维码get接口2', 'headers': {}, 'url': '/qrcode/getDefaultComponentMsg', 'method': 'get', 'expectdata': {'code': '1'}}" ]
+}

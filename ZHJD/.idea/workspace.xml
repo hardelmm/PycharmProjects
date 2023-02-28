@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e6391c7-4ad5-4d66-b0e2-74a12789b28d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/conf/sanity_shimao.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/shimao/roomControll.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_car/14_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_car/1_appmgr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_car/1_chat.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_car/1_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_car/2_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_car/2_localsearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_car/3_traffic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_car/4_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_car/5_stock.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_car/6_broadcast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_ivm/1_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_ivm/1_poem.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_ivm/2_air_condition.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_ivm/2_children_story.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_ivm/3_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_kar/1_KRC_v1.1.3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_kar/1_comic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_kar/1_poem.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_kar/2_KRC_v1.2.0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_pa1/117_setting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_pa1/1_room_service.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_pco/1_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_pdr/1_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_pdr/1_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_pdr/2_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_rob/1_chat.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_rob/1_medical.navi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_rob/1_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/last_release/sanity_rob/2_chat_style.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/regression.commit.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/regression.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/results/version.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/102_calendar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/102_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/103_nonsense.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/106_ac_fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/106_traffic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/108_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/109_movie.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/10_duplex_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/10_fas_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/10_fuzzy_no_acc_in_duplex.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/10_krc_cqa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/10_krc_kbqa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/10_krc_kbqa_wujushi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/10_poi_pv_asr_correct.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/10_stb_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/10_test_musicbox_song_sanity_xiami.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/10_translate.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/10_washer_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/115_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/115_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/116_krc_metaqa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/117_localsearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/119_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_agentProfiletest_jrx.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_air_condition_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_duplex_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_krc_chat_scenario_customized.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_krc_children_why.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_krc_cqa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_krc_kbqa_baike.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_song_final_update_ut8_rand_300.tc.match.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_test_appkey_phicomm_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_test_biaogan_check.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_test_musicbox_dialog_fullduplex.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_test_musicbox_song_sanity_baidu.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_test_musicbox_song_sanity_kar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_test_musicbox_song_sanity_xiami_ximalaya.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/11_washer_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/122_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/122_movie.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/123_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/123_movie.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/125_test_appkey_careland.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/127_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/12_duplex_ivm_hybrid.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/12_guoxve.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/12_ivm_faq.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/12_krc_cqa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/12_map_dianping.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/12_test_biaogan_check.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/12_test_hotel.service_query.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/12_test_musicbox_song_sanity_baidu.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/12_test_musicbox_song_sanity_kar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/12_test_musicbox_song_sanity_xiami.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/12_translate.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/12_water_heater_add_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/132_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/133_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/134_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/134_test_musicbox_song_sanity_migu.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/138_movie.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/13_duplex_ivm_hybrid.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/13_krc_dongman_baike.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/13_music_pragmatics.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/13_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/13_song_final_update_ut8_rand_300.tc.match.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/13_test_biaogan_check.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/13_test_dialogue_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/13_test_musicbox_song_sanity_baidu.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/13_test_musicbox_song_sanity_xiami.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/13_tv_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/144_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/14_guoxve.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/14_setting_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/14_test_musicbox_song_sanity_baidu.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/14_test_saybye.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/14_traffic_dianping.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/15_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/15_collectInfo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/15_fuzzy_no_acc_in_duplex.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/15_guoxve.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/15_krc_dongman_baike.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/15_maybesearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/15_meidi_fridge.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/15_setting_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/15_song_final_update_ut8_rand_300.tc.match.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/15_test_appkey_letv_x55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/165_krc_metaqa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_JD_checkpoint.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_agentProfiletest_new.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_collectInfo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_krc_children_why.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_krc_kbqa_baike.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_krc_rerank.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_meidi_fridge.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_setting.tv.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_test_appkey_letv_x55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_test_appkey_rebound.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_test_biaogan_check.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_test_musicbox_song_sanity_xiami.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/16_test_musicbox_song_sanity_xiami_ximalaya.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/17_air_condition_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/17_illegal_block.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/17_maybesearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/17_meidi_fridge.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/17_setting.tv.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/17_test_appkey_letv_x55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/17_test_appkey_rebound.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/17_test_biaogan_check.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/17_test_musicbox_song_sanity_xiami.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/18_krc_dongman_baike.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/18_krc_kbqa_wujushi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/18_krc_rerank.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/18_maybesearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/18_setting.tv.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/18_test_appkey_letv_x55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/18_test_appkey_phicomm_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/18_test_appkey_phicomm_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/18_test_appkey_phicomm_reminder.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/18_test_musicbox_billboard.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/18_tv_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/19_collectInfo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/19_fan_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/19_krc_kbqa_wujushi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/19_maybesearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/19_reminder.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/19_test_appkey_letv_x55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/19_test_corrector_case.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/19_test_dialogue_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/19_test_saybye.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V4.3.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V4.3.3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V4.3.6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V4.3.9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V5.0.7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V5.0.8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V5.1.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V5.1.5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V5.2.0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V5.2.2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V5.2.2_bugfix.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V5.2.4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V6.0.2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_V6.0.4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_broadcast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_duplex_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_krc_chat_low_quality.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_krc_chat_scenario_customized.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_krc_children_why.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_krc_kbqa_chengyu.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_krc_kbqa_exactmatch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_map_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_appkey_alicloud.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_appkey_cube_car.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_appkey_kar_must_right_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_appkey_kuwo_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_appkey_letv.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_appkey_phicomm_LOW_QUALITY.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_appkey_phicomm_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_appkey_phicomm_broadcast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_appkey_phicomm_reminder.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_appkey_phicomm_setting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_appkey_phicomm_translation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_appkey_rongzhi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_audio_txz.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_dialogue_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_nlg_air_condition.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_pingan_prvt.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_scenario_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_test_scenario_videoAPP.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_traffic_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_traffic_traffic_control.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_tv_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_tv_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_unit.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_weather_traffic_control.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_weather_weather_ellipsis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/1_weibo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/20_illegal_block.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/20_krc_rerank.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/20_meidi_fridge.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/20_test_appkey_gm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/20_test_corrector_case.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/20_test_dialogue_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/20_test_saybye.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/20_test_setting_wuju_0706.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/20_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/21_JD_checkpoint.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/21_V5.2.4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/21_illegal_block.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/21_light_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/21_meidi_fridge.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/21_test_corrector_case.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/21_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/21_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/22_collectInfo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/22_duplex_ivm_hybrid.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/22_illegal_block.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/22_krc_dongman_baike.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/22_meidi_cooker.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/22_poem.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/22_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/22_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/236_krc_chat.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/23_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/23_illegal_block.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/23_krc_kbqa_wujushi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/23_light_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/23_meidi_cooker.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/23_poem.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/24_duplex_ivm_hybrid.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/24_test_musicbox_song.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/255_websearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/256_websearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/258_websearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/25_air_condition_add_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/25_air_condition_add_uhome_V3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/25_illegal_block.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/25_krc_rerank.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/25_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/25_reminder.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/25_test_appkey_phicomm_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/25_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/261_websearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/26_air_condition_add_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/26_air_condition_add_uhome_V3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/27_traffic_violation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/28_air_condition_add_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/28_air_condition_add_uhome_V3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/28_setting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/28_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/29_call.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/29_kinship.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/29_setting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_V4.3.3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_V5.0.4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_V5.0.8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_V5.1.2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_V5.1.4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_V5.2.0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_V5.2.2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_V5.2.4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_V6.0.5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_air_cleaner_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_air_condition_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_broadcast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_date_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_dianping_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_dianping_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_duplex_other.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_feixun_test_set_singer_bug.tc.new.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_iptv_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_krc_children_why.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_learning.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_map_traffic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_oil.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_projector_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_test_appkey_letv.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_test_appkey_phicomm_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_test_appkey_phicomm_broadcast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_test_appkey_phicomm_stock.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_test_appkey_phicomm_unknown.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_test_dialog_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_test_musicbox_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_test_scenario_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_test_scenario_recharge.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_test_scenario_video_default.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_traffic_dianping.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_tv_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_water_heater_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/2_weibo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/30_call.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/30_poem.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/30_test_greeting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/30_traffic_violation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/31_krc_children_why.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/31_test_greeting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/31_test_saybye.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/32_call.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/34_sms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/34_test_saybye.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/35_sms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/36_setting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/36_sms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/37_setting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/386_krc_chat.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/389_krc_chat.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/39_setting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_V4.3.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_V4.3.2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_V5.0.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_V5.0.8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_V5.1.2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_V5.1.5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_V5.2.0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_V5.2.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_V5.2.2_bugfix.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_V6.0.2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_dianping_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_dianping_traffic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_help.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_iptv_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_ivm_faq_fuzzy_test_rand300.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_learning.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_map_traffic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_map_traffic_control.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_oil.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_scene_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_song_final_update_ut8_rand_300.tc.match.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_test_appkey_funtv.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_test_appkey_phicomm_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_test_appkey_phicomm_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_test_appkey_phicomm_calendar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_test_appkey_phicomm_setting.mp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_test_appkey_phicomm_stock.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_test_appkey_phicomm_translation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_test_appkey_phicomm_unknown.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_test_appkey_tcl.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_test_dialogue_reminder.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_test_horoscope.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_test_reminder_case.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_traffic_dianping.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_water_heater_add_uhome_V3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/3_water_heater_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/40_nonsense.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/40_sms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/40_video.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/41_setting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/42_appmgr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/42_traffic_control.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/43_sms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/43_video.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/44_appmgr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/44_contact.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/44_test_appkey_careland.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/44_video.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/45_contact.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/46_test_appkey_careland.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/46_tv.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/46_video.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/47_website.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/484_krc_chat.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/48_duplex_singer_song.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/48_krc_metaqa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/48_stock.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/48_test_dialogue_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/48_tv.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/48_website.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/49_stock.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/49_test_dialogue_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/49_tv.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/49_website.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_V4.3.2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_V5.1.3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_V5.2.2_bugfix.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_V5.2.3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_agentProfiletest_jrx.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_air_condition_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_barfridge_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_chat_mood.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_dianping_dianping.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_dianping_traffic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_dianping_traffic_control.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_dianping_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_duplex_ivm_hybrid.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_duplex_localsearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_hotline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_incar_gaode_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_krc_chat_low_quality.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_krc_chat_scenario_customized.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_map_dianping.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_oil.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_projector_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_scene_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_setting_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_song_final_update_ut8_rand_300.tc.match.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_stb_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_test_appkey_phicomm_broadcast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_test_appkey_phicomm_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_test_appkey_phicomm_setting.mp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_test_appkey_phicomm_unknown.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_test_appkey_tcl.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_test_greeting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_test_musicbox_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_test_musicbox_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_test_musicbox_scene.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_test_musicbox_setting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_test_scenario_recharge.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_traffic_control.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/4_weibo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/50_duplex_singer_song.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/50_feixun_test_set_singer_bug.tc.new.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/50_website.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/527_krc_chat.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/52_website.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/53_test_appkey_careland.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/53_tv.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/55_feixun_test_set_singer_bug.tc.new.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/56_video.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/58_test_appkey_phicomm_broadcast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/59_appmgr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/59_stock.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_V5.0.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_V5.2.0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_V5.2.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_V5.2.3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_V5.2.4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_V6.0.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_chat_mood.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_collectInfo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_dianping_dianping.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_fas_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_hotline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_incar_gaode_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_iptv_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_kinship.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_krc_chat_post_process.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_krc_chat_scenario_customized.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_test_appkey_phicomm_translation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_test_appkey_service_robot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_test_appkey_teclast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_test_biaogan_check.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_test_musicbox_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_test_musicbox_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_test_musicbox_scene.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_test_musicbox_setting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_test_musicbox_song_sanity_shenma_html.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_test_nlg_air_condition.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/5_tv_setting_all.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/60_appmgr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/60_stock.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/65_calendar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/65_test_pandora_a1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/66_novel.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/66_test_dialogue_flight.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/66_test_dialogue_flight_cube.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/67_JD_checkpoint.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/67_cookbook.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/67_map_navi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/67_test_dialogue_flight.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/68_JD_checkpoint.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/69_appmgr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/69_localsearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/69_map_navi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_agent_name_remove.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_broadcast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_chat_mood.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_ivm_open_close_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_krc_chat_post_process.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_krc_cqa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_reminder.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_stb_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_test_appkey_kar_must_right_category.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_test_appkey_teclast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_test_musicbox_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_test_musicbox_song.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_water_heater_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/6_weibo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/70_krc_metaqa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/71_localsearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/71_map_navi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/72_map_navi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/72_traffic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/73_krc_metaqa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/73_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/73_traffic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/74_test_dialogue_flight_cube.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/75_map_navi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/75_nonsense.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/75_test_dialogue_flight.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/75_traffic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/77_localsearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/77_stock.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/77_test_pandora_a1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/78_nonsense.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/78_stock.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/78_test_dialogue_flight.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/79_calendar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_V5.1.5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_agent_name_remove.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_fan_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_hotline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_joke_multi_turns.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_krc_chat_post_process.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_krc_kbqa_baike.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_map_dianping.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_reminder.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_test_appkey_phicomm_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_test_appkey_phicomm_setting.mp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_test_appkey_phicomm_stock.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_test_musicbox_dialog_fullduplex.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_test_musicbox_scene.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/7_test_musicbox_song_sanity_shenma_html.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/80_calendar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/80_novel.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/80_traffic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/81_cookbook.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/81_nonsense.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/81_novel.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/82_traffic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/83_nonsense.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/84_calendar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/84_localsearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/85_localsearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/86_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/86_test_dialogue_flight_cube.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/86_test_dialogue_train.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/87_novel.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/88_novel.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/88_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/89_calendar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_V5.2.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_agentProfiletest_new.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_air_condition_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_control_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_dianping_dianping.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_duplex_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_joke_multi_patterns.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_krc_chat_low_quality.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_krc_kbqa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_krc_kbqa_baike.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_krc_rerank.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_projector_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_test_appkey_teclast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_test_musicbox_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_test_musicbox_song_sanity_shenma_html.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_test_musicbox_song_sanity_xiami_ximalaya.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_traffic_dianping.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/8_tv_setting_all.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/90_cookbook.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/90_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/91_ac_fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/92_ac_fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/92_cookbook.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/93_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/97_ac_fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/99_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_V5.1.2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_V5.2.2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_air_condition_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_control_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_duplex_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_fan_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_fas_uhome_V2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_fuzzy_no_acc_in_duplex.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_iptv_xiaou.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_krc_kbqa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_poi_pv_asr_correct.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_setting_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_test_appkey_phicomm_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_test_musicbox_song_sanity_kar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/9_translate.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_car/14_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_car/1_appmgr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_car/1_chat.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_car/1_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_car/2_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_car/2_localsearch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_car/3_traffic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_car/4_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_car/5_stock.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_car/6_broadcast.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_ivm/1_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_ivm/1_poem.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_ivm/2_air_condition.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_ivm/2_children_story.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_ivm/3_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_kar/1_KRC_v1.1.3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_kar/1_comic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_kar/1_poem.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_kar/2_KRC_v1.2.0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_pa1/117_setting.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_pa1/1_room_service.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_pco/1_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_pdr/1_alarm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_pdr/1_audio.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_pdr/2_music.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_rob/1_chat.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_rob/1_medical.navi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_rob/1_weather.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/last_release/sanity_rob/2_chat_style.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/regression.commit.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/regression.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/results/version.info" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nlu_regression_tool/conf/mail.conf" afterPath="$PROJECT_DIR$/../nlu_regression_tool/conf/mail.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nlu_regression_tool/conf/nlu_regression.conf" afterPath="$PROJECT_DIR$/../nlu_regression_tool/conf/nlu_regression.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nlu_regression_tool/conf/secret.dump" afterPath="$PROJECT_DIR$/../nlu_regression_tool/conf/secret.dump" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nlu_regression_tool/conf/update_secrets.py" afterPath="$PROJECT_DIR$/../nlu_regression_tool/conf/update_secrets.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nlu_regression_tool/project_tools/caseRunner.py" afterPath="$PROJECT_DIR$/../nlu_regression_tool/project_tools/caseRunner.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nlu_regression_tool/project_tools/domainConvertor.py" afterPath="$PROJECT_DIR$/../nlu_regression_tool/project_tools/domainConvertor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nlu_regression_tool/project_tools/mailSender.py" afterPath="$PROJECT_DIR$/../nlu_regression_tool/project_tools/mailSender.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nlu_regression_tool/project_tools/resultHandler.py" afterPath="$PROJECT_DIR$/../nlu_regression_tool/project_tools/resultHandler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nlu_regression_tool/send_mail.py" afterPath="$PROJECT_DIR$/../nlu_regression_tool/send_mail.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nlu_regression_tool/send_sanity_daily_result.py" afterPath="$PROJECT_DIR$/../nlu_regression_tool/send_sanity_daily_result.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/conf/sanity-pa1.txt" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/conf/sanity-pa1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/conf/sanity-xoj.txt" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/conf/sanity-xoj.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/bill.txt" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1_old/bill.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/breakfast.txt" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1_old/breakfast.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/clothing_related.txt" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1_old/clothing_related.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/complain.txt" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1_old/complain.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/hotel_advertising.txt" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1_old/hotel_advertising.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/lights.txt" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1_old/lights.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/location.txt" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1_old/location.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/room_service.txt" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1_old/room_service.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/setting.txt" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1_old/setting.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/taxi_and_bus.txt" afterPath="$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1_old/taxi_and_bus.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ZHJD$tts_test.coverage" NAME="tts_test Coverage Results" MODIFIED="1567084179491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pandora" />
+    <SUITE FILE_PATH="coverage/ZHJD$courtCase.coverage" NAME="courtCase Coverage Results" MODIFIED="1566975666860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZHJD$audio_flow.coverage" NAME="audio_flow Coverage Results" MODIFIED="1567166236696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZHJD$multi_merge_bug.coverage" NAME="multi_merge_bug Coverage Results" MODIFIED="1567052867155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZHJD$case_avg.coverage" NAME="case_avg Coverage Results" MODIFIED="1566908550108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pandora" />
+    <SUITE FILE_PATH="coverage/ZHJD$multi_asr_test.coverage" NAME="multi_asr_test Coverage Results" MODIFIED="1566909404281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pandora" />
+    <SUITE FILE_PATH="coverage/ZHJD$merge_case_avg_compareQu.coverage" NAME="merge_case_avg_compareQu Coverage Results" MODIFIED="1566898250744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ivn_test" />
+    <SUITE FILE_PATH="coverage/ZHJD$multi_merge_bug_compareQu__1_.coverage" NAME="multi_merge_bug_compareQu (1) Coverage Results" MODIFIED="1566899489145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZHJD$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1566897078151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/ZHJD$merge_case_avg.coverage" NAME="merge_case_avg Coverage Results" MODIFIED="1567000979238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZHJD$multi_asr_test2.coverage" NAME="multi_asr_test2 Coverage Results" MODIFIED="1567085465158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pandora" />
+    <SUITE FILE_PATH="coverage/ZHJD$multi_merge_bug_compareQu.coverage" NAME="multi_merge_bug_compareQu Coverage Results" MODIFIED="1566899302143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ivn_test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="audio_flow.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/audio_flow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="65" column="28" lean-forward="true" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+              <folding>
+                <element signature="e#23#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ivn_test</find>
+      <find>audio</find>
+      <find>hotel</find>
+      <find>source_path</find>
+      <find>asr_audio_path</find>
+      <find>done</find>
+      <find>clean done</find>
+      <find>get do</find>
+      <find>text_list</find>
+      <find>tts_result</find>
+      <find>case_avg</find>
+      <find>rate_time_sec</find>
+      <find>test_result</find>
+      <find>appkey</find>
+      <find>speechcraftId</find>
+      <find>ivn_test_path</find>
+      <find>cost time</find>
+      <find>multiprocessing</find>
+      <find>nlu_regression.py</find>
+      <find>list_courtCase</find>
+      <find>result/audio_flow_result</find>
+      <find>audio_flow_path</find>
+      <find>playing...</find>
+      <find>begin to get</find>
+      <find>Null</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../nlu_regression_tool" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/SessionId.py" />
+        <option value="$PROJECT_DIR$/ivn_test/multi_merge_bug.py" />
+        <option value="$PROJECT_DIR$/ivn_test/merge_case_avg.py" />
+        <option value="$PROJECT_DIR$/common/readConfig.py" />
+        <option value="$PROJECT_DIR$/common/config.ini" />
+        <option value="$PROJECT_DIR$/readConfig.py" />
+        <option value="$PROJECT_DIR$/ivn_test/merge_case_avg_compareQu.py" />
+        <option value="$PROJECT_DIR$/ivn_test/multi_merge_bug_compareQu.py" />
+        <option value="$PROJECT_DIR$/../Pandora/case/云茂客控指令.txt" />
+        <option value="$PROJECT_DIR$/../Pandora/pandora_test.py" />
+        <option value="$PROJECT_DIR$/../Pandora/readConfig.py" />
+        <option value="$PROJECT_DIR$/../Pandora/case/roomControll.txt" />
+        <option value="$PROJECT_DIR$/../Pandora/tts_test.py" />
+        <option value="$PROJECT_DIR$/../Pandora/case_avg.py" />
+        <option value="$PROJECT_DIR$/../Pandora/multi_asr_test.py" />
+        <option value="$PROJECT_DIR$/common/courtCase.py" />
+        <option value="$PROJECT_DIR$/multi_merge_bug_compareQu.py" />
+        <option value="$PROJECT_DIR$/courtCase.py" />
+        <option value="$PROJECT_DIR$/config.ini" />
+        <option value="$PROJECT_DIR$/merge_case_avg.py" />
+        <option value="$PROJECT_DIR$/multi_merge_bug.py" />
+        <option value="$PROJECT_DIR$/../Pandora/multi_asr_test2.py" />
+        <option value="$PROJECT_DIR$/../Pandora/config.ini" />
+        <option value="$PROJECT_DIR$/../nlu_regression_tool/run_nlu.sh" />
+        <option value="$PROJECT_DIR$/audio_flow.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-50" />
+    <option name="y" value="26" />
+    <option name="width" value="1858" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ZHJD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZHJD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZHJD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZHJD" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZHJD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZHJD" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+              <item name="audio_flow_result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZHJD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZHJD" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+              <item name="audio_flow_result" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\ZHJD" />
+      <recent name="D:\PycharmProjects\" />
+      <recent name="D:\PycharmProjects\ZHJD\ivn_test" />
+      <recent name="D:\PycharmProjects\ZHJD\common" />
+      <recent name="D:\PycharmProjects\ZHJD\result" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\nlu_regression_tool\test-sets\test\sanity\shimao" />
+      <recent name="D:\PycharmProjects\Pandora\case" />
+      <recent name="D:\PycharmProjects\ZHJD\case" />
+      <recent name="D:\PycharmProjects\Pandora" />
+      <recent name="D:\PycharmProjects\ZHJD\ivn_test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.audio_flow">
+    <configuration name="audio_flow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ZHJD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/audio_flow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="merge_case_avg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ZHJD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merge_case_avg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="multi_asr_test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Pandora" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pandora" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pandora/multi_asr_test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="multi_merge_bug" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ZHJD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi_merge_bug.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="tts_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Pandora" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pandora" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pandora/tts_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.audio_flow" />
+      <item index="1" class="java.lang.String" itemvalue="Python.multi_merge_bug" />
+      <item index="2" class="java.lang.String" itemvalue="Python.merge_case_avg" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tts_test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.multi_asr_test2" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.audio_flow" />
+        <item index="1" class="java.lang.String" itemvalue="Python.multi_asr_test2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tts_test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.multi_merge_bug" />
+        <item index="4" class="java.lang.String" itemvalue="Python.merge_case_avg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e6391c7-4ad5-4d66-b0e2-74a12789b28d" name="Default" comment="" />
+      <created>1566887890553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566887890553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1858" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17352614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20872274" sideWeight="0.43437153" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3056133" sideWeight="0.56562847" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14241165" sideWeight="0.49332592" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4189189" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.49777532" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20872274" sideWeight="0.43437153" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3056133" sideWeight="0.56562847" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14241165" sideWeight="0.49332592" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10233593" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.49777532" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4189189" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="35" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="list_courtCase" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Pandora/result/Pandora_0823_test_2019-08-27.20.36.44.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python37/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="347" column="0" lean-forward="false" selection-start-line="347" selection-start-column="0" selection-end-line="347" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi_merge_bug_compareQu.py" />
+    <entry file="file://$PROJECT_DIR$/bind_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge_case_avg_compareQu.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python37/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avg_tmp/0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avg_tmp/1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avg_tmp/2" />
+    <entry file="file://$PROJECT_DIR$/avg_tmp/3" />
+    <entry file="file://$PROJECT_DIR$/common/interface_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python37/Lib/multiprocessing/context.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="498" column="59" lean-forward="true" selection-start-line="498" selection-start-column="59" selection-end-line="498" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/setup.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pandora/case/roomControll.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pandora/result/Pandora_test_2019-08-29.21.31.05.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pandora/case/roomControllE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pandora/multi_asr_test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1035">
+          <caret line="40" column="55" lean-forward="true" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pandora/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/wuju_A1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="67" lean-forward="true" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora/traffic.control.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/shimao_screen/wuju_A1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1_hotel.service/room_service.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1_hotel/room_service.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2819">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/call.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/breakfast.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/pandora_A1/bugfixes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="55" lean-forward="false" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/conf/nlu_regression.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/input/all_url/service_cancel.txt" />
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/backup_result.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/run_regression.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/run_nlu.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="93" lean-forward="false" selection-start-line="19" selection-start-column="93" selection-end-line="19" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/nlu_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="32" column="15" lean-forward="false" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/shimao_hotel/light.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/test-sets/test/sanity/shimao/roomControll.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/input/all_url/light.txt" />
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/input/all_url/setting.txt" />
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/input/all_url/wuju_A1.txt" />
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/input/all_url/wuju_optimize.txt" />
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/input/all_url/hotel_advertising.txt" />
+    <entry file="file://$PROJECT_DIR$/../nlu_regression_tool/input/all_url/haier_test.txt" />
+    <entry file="file://$PROJECT_DIR$/../Pandora/multi_asr_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi_merge_bug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge_case_avg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="80" column="17" lean-forward="false" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="311" column="0" lean-forward="false" selection-start-line="311" selection-start-column="0" selection-end-line="311" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courtCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pandora/tts_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="43" column="46" lean-forward="false" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="15" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/audio_flow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="65" column="28" lean-forward="true" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+          <folding>
+            <element signature="e#23#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

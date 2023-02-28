@@ -1,0 +1,1 @@
+2022-01-19 14:18:45 - D:\pycharmProject\pytest_demo\testcases\test_caoliao_http_get_interface.py[line:29] - [32mINFO[0m: 测试开始啦~~~~~~~
